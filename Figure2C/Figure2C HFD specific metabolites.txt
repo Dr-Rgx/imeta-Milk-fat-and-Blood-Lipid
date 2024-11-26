@@ -1,0 +1,8 @@
+﻿	
+Hormones and Their Derivatives	16
+Drugs and Their Metabolites	24
+Lipids and Their Derivatives	15
+Amino Acids and Their Derivatives	31
+Carbohydrates and Their Derivatives	9
+Metabolites	21
+Other Natural Products and Their Derivatives	164

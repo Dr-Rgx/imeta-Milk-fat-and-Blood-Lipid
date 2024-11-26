@@ -1,0 +1,6 @@
+﻿	
+organic acids	4
+fatty acids and their derivatives	5
+amino acids and their derivatives	2
+phenols and their derivatives	5
+Others	3
