@@ -1,0 +1,1178 @@
+﻿MS2.name	LOG_FOLDCHANGE	负log_10(q-value)
+"N-cyano-N'-(1,1-dimethylpropyl)-N'-3-pyridinyl-guanidine"	-6.6853	0.281149687
+Garcinolic Acid	-5.8472	0.384586576
+Dehydrocholic acid	-4.3197	0.278263559
+Melatonin	-4.1285	0.578659362
+barceloneic acid A	-4.0984	0.289197448
+Kanosamine	-3.7305	1.146977477
+Nifekalant	-3.4279	0.441207458
+"1,3,6-trihydroxy-2-(3-methylbut-2-enyl)xanthen-9-one"	-3.2004	0.980136286
+5-Methyluridine	-3.1693	1.28946801
+Pseudouridine	-3.1464	0.915137861
+Dichlorprop	-3.119	0.443058591
+Phloretin	-3.1179	1.069473759
+Daphnoretin	-3.0701	0.40999458
+Thymidine 5'-monophosphate	-2.9333	0.293077491
+3-Hydroxysebacic acid	-2.7959	0.253942129
+skullcapflavone II	-2.7954	0.84863015
+Deacetoxy-7-Oxogedunin	-2.7352	0.265448181
+D-Sedoheptulose 7-phosphate	-2.6951	0.525710874
+Inosine	-2.65	0.787759111
+N-Acetylanthranilic acid	-2.6085	0.336421561
+Emetine	-2.5592	1.088347098
+Scaposin	-2.5544	0.585260566
+lenticin	-2.4981	1.248666998
+Chrysin	-2.491	0.311571279
+Luteolin	-2.4669	0.973752819
+N-acetyl-2-phenylethylamine	-2.4469	0.528502928
+3-Indoxyl sulphate	-2.4319	0.439746556
+P-Toluenesulfonic acid	-2.3437	0.349177847
+Folinic acid	-2.2495	0.281872148
+5-Ethyl-2'-deoxyuridine	-2.2145	0.282820644
+"1,4-Androstadiene-3,17-dione"	-2.2092	1.656118962
+11(E)-Eicosenoic Acid	-2.2056	2.348470013
+L(-)-Pipecolinic acid	-2.166	0.933748638
+2'-Deoxycytidine 5'-monophosphate (dCMP)	-2.1604	0.350022938
+Prulaurasin	-2.1427	0.511900733
+"7,8-dimethylalloxazine (lumichrome)"	-2.1408	0.871730005
+2'-DEOXYURIDINE 5'-MONO-PHOS-PHATE	-2.1235	1.798602876
+"2-(14,15-Epoxyeicosatrienoyl) glycerol"	-2.0788	2.791102015
+Vanillin	-2.0646	0.631211223
+N-Formyl-L-Methionine	-2.0504	0.320717498
+N-Acetylhistamine	-2.0475	0.351620471
+Cinnamoylglycine	-2.045	0.289814914
+Propachlor ESA	-2.0305	1.034365632
+Rubone	-2.029	0.497764121
+Pygenic acid A b	-1.9878	0.996798053
+1-Myristoyl-2-hydroxy-sn-glycero-3-phosphate	-1.9852	0.834251318
+Aleuretic Acid	-1.9487	1.829532924
+Dimethachlor OXA	-1.9471	1.663780495
+M-Coumaric acid	-1.9368	1.949658918
+"(3S,9aS)-3-benzyl-octahydro-1H-pyrido[1,2-a]pyrazin-1-one"	-1.9226	1.28946801
+D-Glucose 6-phosphate	-1.8992	0.409236163
+Isoamylamine	-1.8858	0.383724087
+"1,7-bis(4-hydroxyphenyl)heptane-3,5-diol"	-1.8577	0.656768705
+Mannitol	-1.8552	0.306510483
+Meprednisone	-1.8455	0.244033724
+Putrescine	-1.8417	0.856048884
+Uridine	-1.8411	1.929999096
+2'-Hydroxy-a-naphthoflavone	-1.7714	0.781937382
+3-(5-phenylthiophen-2-yl)prop-2-ynyl Acetate	-1.7711	2.42335924
+N-Acetyl-DL-tryptophan	-1.752	1.335828295
+Thiamine	-1.7496	1.663780495
+4-Toluic acid	-1.7493	1.340368988
+4-Aminohippuric acid	-1.7327	0.733744778
+O-Succinylhomoserine	-1.7244	0.899388247
+"3,4-DIHYDROXYPHENYLACETATE"	-1.7215	1.22469545
+Ethyl-beta-glucuronide	-1.7184	0.63425002
+"1H-Isoindole-1,3(2H)-dione"	-1.7172	0.877554744
+Asiatic acid	-1.7119	1.656118962
+10-Hydroxydecanoic acid	-1.71	0.281872148
+3-Hydroxyphenylacetic acid	-1.7097	1.420731004
+Guanosine	-1.7042	0.544180976
+Ursolic acid	-1.6865	1.275412861
+Histamine-trifluoromethyltoluide	-1.677	1.344467804
+3-oxo-C14 homoserine lactone	-1.6673	0.903820215
+Bisphenol S	-1.6495	0.395061511
+Irbesartan (Avapro)	-1.6426	0.712960072
+(4-chloro-2-methylphenoxy)acetic acid	-1.6362	0.553431769
+(+/-)-Abscisic acid	-1.6261	1.656118962
+Isohomovanillic acid	-1.6093	1.254714361
+8-acetamido-2-methyl-7-oxononanoic acid	-1.5957	0.30835279
+Catechin	-1.5887	0.713319031
+N-Acetyl-D-galactosamine 4-sulfate	-1.587	0.796124377
+DL-Dipalmitoylphosphatidylcholine	-1.5845	0.690199554
+Murocholic acid	-1.5822	0.909988976
+HIPPURATE	-1.5769	0.72434319
+Homovanillic acid	-1.5763	1.250225048
+Pipecolic acid	-1.5735	0.897189109
+"2-(2-oxo-8,9-dihydrofuro[2,3-h]chromen-8-yl)propan-2-yl acetate"	-1.5649	1.146630371
+Genistein	-1.5639	0.800985729
+Cytarabine	-1.5588	0.717695172
+"2,3-Dideoxyuridine"	-1.5522	2.289003085
+Dihydrokaempferol	-1.5516	0.796124377
+4-Thiouridine	-1.5513	0.776945587
+N6-(DELTA2-ISOPENTENYL)-ADENINE	-1.5479	0.780860998
+N-ACETYL-DL-METHIONINE	-1.5414	1.043721088
+Triphenylphosphate	-1.5273	1.108719069
+Citrazinc acid	-1.5267	0.579549141
+ISOPALMITIC ACID	-1.5128	0.888771102
+4- Carboxyphenylglycine	-1.5079	0.909988976
+N-Acetyl-L-methionine	-1.4941	1.024908407
+Patulin	-1.4903	1.096600688
+phenylglucoside	-1.4869	1.367461728
+Syringic Acid	-1.4854	0.934308272
+4-Hydroxybenzenesulfonic acid	-1.4772	0.349177847
+3-[3-(beta-D-Glucopyranosyloxy)-2-hydroxyphenyl]propanoic acid	-1.4698	1.03645299
+Tyrosol	-1.4671	0.957463863
+3-oxo-C10-homoserine lactone	-1.4612	0.402217087
+Kynurenic acid	-1.4447	0.658110644
+feruloyltyramine	-1.437	0.563169721
+"5-[(Z)-14-(3,5-dihydroxyphenyl)tetradec-10-enyl]benzene-1,3-diol"	-1.4364	0.462659522
+Tagatose	-1.427	1.419599686
+"3,6-bis[(1H-indol-3-yl)methyl]piperazine-2,5-dione"	-1.3842	0.594107486
+6-Methylquinoline	-1.3811	0.314688291
+L-alpha-Phosphatidylethanolamine (Soy)	-1.3807	0.400160578
+Mimosine	-1.3791	1.647836784
+3-Hydroxymandelic acid	-1.3786	1.794146305
+N-Acetyl-D-alloisoleucine	-1.3778	1.176199846
+Paracetamol	-1.3765	0.655961594
+Perseitol	-1.3668	0.666250538
+Xylose	-1.3627	1.110894475
+Prolylleucine	-1.3607	0.445111255
+3-UREIDOPROPIONATE	-1.357	0.820189777
+Methyl-beta-galactopyranoside	-1.3533	0.496182089
+Equol	-1.3379	1.048749932
+Pantothenic acid	-1.3194	1.068150729
+Salvinorin B	-1.3175	1.090091116
+N-Acetylcysteine	-1.3154	0.408289999
+rosmarinic acid	-1.3029	0.397104795
+L-Cysteinesulfinic acid	-1.2952	0.949620244
+Phenylacetylglycine	-1.2923	0.293469969
+3-hydroxy-C8-homoserine lactone	-1.2748	0.285410412
+sulochrin	-1.2706	0.608059765
+Lumazine	-1.2702	0.892281389
+Dihydrogedunin	-1.2679	0.737050825
+Isobutyric acid	-1.2633	1.185639183
+Cryptotanshinone	-1.2587	0.574759321
+L-Ascorbic acid 2-sulfate	-1.2509	0.532436288
+2-Hydroxyhippuric acid	-1.2504	0.496114028
+O-SUCCINYL-L-HOMOSERINE	-1.2412	0.951325185
+CRUSTECDYSONE	-1.2374	0.803298888
+Parfumine	-1.2349	0.305447446
+Metaxalone	-1.2286	1.237366443
+Naringeninchalcone	-1.2259	0.738998977
+Ctrinin hydrate	-1.2218	1.671436931
+Leucylproline	-1.216	1.004953037
+Butabarbital	-1.205	0.720082223
+"4-Hydroxy-2',4',6'-trimethoxychalcone"	-1.2038	0.225395454
+Methylsuccinic acid	-1.2016	1.034365632
+Chrysanthemic Acid	-1.2015	1.185639183
+gamma-Glutamylleucine	-1.1962	0.420330706
+CHENODIOL	-1.1952	0.67194675
+Fluometuron	-1.1928	0.347183357
+Sinapic acid	-1.1872	0.3357342
+Derrusnin	-1.1834	1.548843211
+Mevalonic acid	-1.183	0.897189109
+adrenosterone	-1.1809	1.973589319
+Procaine	-1.1729	0.329373842
+DL-alpha-Aminocaprylic acid	-1.1549	0.98514358
+Phosphatidylinositol lyso 20:4	-1.1517	0.28325398
+Malonic acid	-1.151	0.282154816
+Flavin mononucleotide (FMN)	-1.1503	0.558902135
+DL-beta-Hydroxybutyric acid	-1.1401	0.871730005
+4-oxododecanedioic acid	-1.1399	0.925073903
+arctigenin	-1.1206	0.685437622
+Lupinine	-1.1193	0.925073903
+3-Deoxo-3Beta-Hydroxymexicanolide 16-Enol Ether	-1.1174	0.382622176
+Genipin	-1.1168	0.668329809
+3-Methoxyphenylacetic acid	-1.1092	1.576688577
+Tebufenozide	-1.1057	0.649461257
+2-Hydroxycinnamic acid	-1.1035	0.193731819
+N-Acetylputrescine	-1.1024	0.475993554
+Tetradecanedioic acid	-1.1017	1.115476509
+Sorbitol	-1.1006	0.256121947
+3-oxo-C8-homoserine lactone	-1.0993	0.302849151
+N-acetyl-O-methyltyrosine	-1.0991	0.608059765
+Phosphatidylethanolamine lyso 18:1	-1.0947	0.651870448
+Phloroglucinol	-1.0932	0.45666467
+raspberry ketone	-1.0869	0.934756499
+Prostaglandin A1 ethyl ester	-1.083	1.263436187
+Spermidine	-1.0755	0.354391083
+Porphobilinogen	-1.0748	0.508694348
+2'-Deoxyinosine-5'-monophosphate sodium salt	-1.0657	0.575248998
+Emodin	-1.0594	0.783754902
+3-hydroxy-2-octylpentanedioic acid	-1.0567	0.781937382
+Bufexamac	-1.0564	0.249314221
+(S)-Equol	-1.0543	1.066421611
+URSODIOL	-1.0363	1.143863459
+Pinoquercetin	-1.0342	0.554380231
+"3,3-Dimethylglutaric acid"	-1.0314	0.725449615
+Stearoyl ethanolamide	-1.0289	0.584676017
+Phosphatidylinositol lyso 18:0	-1.0202	0.426339488
+Nicotinuric acid	-1.0077	0.383724087
+Medicagenic acid	-1.0051	1.421911169
+"3-[(Z)-heptadec-10-enyl]benzene-1,2-diol"	-1.005	2.623331814
+3-Hydroxy-3-methylglutaric acid	-1.0035	1.39670403
+alpha-Aspartylphenylalanine	-0.99937	0.336562934
+L-Histidine	-0.98935	0.32922552
+N-Isobutyrylglycine	-0.985	0.275044541
+Itaconic acid	-0.98363	1.934793872
+Hematein	-0.98027	0.533785053
+7-Hydroxy-3-Methylflavone	-0.97686	0.411851594
+4-Hydroxymandelic acid	-0.97393	0.749043561
+Orotic acid	-0.97314	0.585126885
+8-Hydroxyquinoline	-0.9725	0.236033217
+Cyclo(proline-leucine)	-0.96875	0.948654501
+2-hydroxyquinoline	-0.95859	0.98514358
+Phosphatidylethanolamine lyso 20:3	-0.95629	0.510182092
+4-Hydroxymandelonitrile	-0.95614	0.834251318
+2-Methylglutaric acid	-0.95372	0.776945587
+2-methyl-2-(3-pentadecylphenoxy)propanoic acid	-0.94285	0.92245042
+GUANIDINOACETATE	-0.94225	0.338310335
+Maltitol	-0.94046	0.871730005
+Phenylalanine	-0.93751	0.464187062
+trans-Aconitic acid	-0.93553	0.535987634
+"N6,N6,N6-Trimethyl-L-lysine"	-0.93395	0.818814066
+kaempferol 7-neohesperidoside	-0.93012	0.474579399
+3-oxo-C4-homoserine lactone	-0.92442	1.115476509
+Nitazoxanide	-0.91998	1.146977477
+Lipoic acid reduced	-0.9104	1.320608448
+N-ACETYL-L-LEUCINE	-0.90433	0.201763824
+"4,6-dinitro-o-cresol"	-0.89279	0.650023501
+PILOCARPINE NITRATE	-0.89145	0.535286954
+Choline	-0.89068	0.400160578
+Isorhamnetin	-0.88907	0.539673578
+Asiaticoside	-0.88663	0.499118876
+"1,5-Anhydro-D-glucitol"	-0.88638	1.340368988
+L-PIPECOLIC ACID	-0.88277	0.941991767
+Betulinic acid	-0.88031	1.024908407
+"2,4-dihydroxyheptadec-16-en-1-yl acetate"	-0.87348	0.909988976
+(-)-Caryophyllene oxide	-0.87221	1.09016594
+Jasmonic acid	-0.86958	1.024908407
+7-HDoHE	-0.86211	0.800985729
+Theanine	-0.86145	1.088347098
+Indole-3-lactic acid	-0.85909	0.39670403
+D-PANTOTHENIC ACID	-0.85185	0.645910778
+aloesin	-0.85033	0.528972467
+albocycline	-0.84378	0.728809161
+Stavudine	-0.83647	0.957818405
+3-Hydroxyanthranilic acid	-0.83464	0.716857137
+3-O-acetylpadmatin	-0.83304	0.63425002
+Betulin	-0.83126	0.924672066
+N-Methylisoleucine	-0.82861	0.645142761
+Acetochlor ESA	-0.82251	0.969845729
+Cyclo-prolylglycine	-0.82226	0.391014243
+Tricin	-0.82174	0.574759321
+"7,4'-DIMETHOXYISOFLAVONE"	-0.82076	0.173374576
+Dodecanedioic acid	-0.81974	0.770497338
+"8,15-DiHETE"	-0.81759	1.146630371
+Phosphatidylinositol lyso 16:0	-0.81125	0.714420189
+5-Hydroxyindole-3-acetic acid	-0.81071	0.63425002
+Homopterocarpin	-0.80625	0.516141799
+Docosanoic Acid	-0.80517	0.554380231
+Benzylsuccinic acid	-0.80355	0.892281389
+(+/-)15-HETE	-0.80154	0.562059277
+Methioninesulfoxide	-0.79895	0.211421577
+afzelechin	-0.79816	0.909318796
+Enterodiol	-0.79609	0.658110644
+4-Chlorophenol	-0.79593	0.276733193
+geniposide	-0.79206	0.343643024
+cyclopenin	-0.78159	0.564394498
+2-Oxindole	-0.77792	0.360712774
+3-Gal(1-2)GluA Soyasapogenol B	-0.77694	0.447064234
+5-Aminonaphthalene-2-sulfonic acid	-0.77439	0.657439157
+Phthalic acid	-0.76955	1.346420903
+Asparagine	-0.76727	0.293504114
+N-Arachidonoyl dopamine	-0.76321	0.818814066
+2-QUINOLINECARBOXYLIC ACID	-0.75997	0.734356858
+Formononetin	-0.75926	0.343058954
+Vulpinic Acid	-0.75763	1.807739281
+Heneicosanoic acid	-0.75752	0.525273958
+2-acetoxy-6-pentadecylbenzoic acid	-0.75688	0.341254265
+4-Methylcatechol	-0.74986	0.219646678
+ASCORBIC ACID	-0.74871	0.77237035
+Secobarbital	-0.74676	0.216947271
+N4-Acetylsulfamethazine	-0.74312	0.842331727
+7-Hydroxy-4-methylcoumarin	-0.74044	0.856048884
+Gentisic acid	-0.73541	0.397625259
+Nimodipine	-0.73373	0.645142761
+(+/-)-Cannabichromeorcin	-0.73079	0.979390147
+N-Formylmethionine	-0.73018	0.753698423
+Corticosterone	-0.72944	1.118193238
+tetranor-12(R)-HETE	-0.7286	0.877554744
+Phosphatidylglyceride 18:2-22:6	-0.72477	0.449881764
+Phosphatidylethanolamine lyso 16:0	-0.72438	1.024908407
+3-(4-Hydroxyphenyl)-1-propanol	-0.71983	0.703137448
+Nicotinoylglycine	-0.71921	0.301316725
+Pyridoxine	-0.71751	0.818814066
+3-Genistein-8-C-glucoside	-0.70799	0.191471696
+2-Oxoglutaric acid	-0.70679	0.396520018
+N-Acetylornithine	-0.70634	0.646487683
+N-Acetylphenylalanine	-0.7032	0.647624505
+Gibberellic acid	-0.69868	0.379499582
+Quinolinic acid	-0.69834	0.593238471
+Phenothiazine	-0.69831	0.709564686
+"2,3',4,6-Tetrahydroxybenzophenone"	-0.69798	1.068150729
+Pimelic acid	-0.6948	0.93674172
+Tyrosine	-0.6948	0.882297939
+salicin	-0.69374	0.709053215
+"5-{8(Z),11(Z)-pentadecadienyl}resorcinol"	-0.68495	1.237208939
+Glycodeoxycholic Acid (hydrate)	-0.68414	0.354391083
+5-Demethylnobiletin	-0.684	0.553431769
+Lupulone	-0.68149	0.759675445
+Ergosterol Peroxide	-0.68082	0.568073626
+5-Aminosalicylic?acid	-0.67673	0.743089918
+"1-(2,3-dibenzimidazol-2-ylpropyl)-2-methoxybenzene"	-0.67633	0.666250538
+Coniferyl aldehyde	-0.67629	0.49268396
+"N3,N4-Dimethyl-L-arginine"	-0.67392	0.842059944
+Xanthurenic acid	-0.67202	0.334362733
+L-Threonic acid	-0.66957	0.660528683
+GENTAMICIN SULFATE	-0.6686	0.131637739
+Cholecalciferol	-0.6651	0.834251318
+Propentofylline	-0.66296	0.657379957
+Shikimic Acid	-0.66147	0.993020809
+"N,N-Diethylethanolamine"	-0.6602	0.278016361
+DL-Mandelic acid	-0.65885	0.392802413
+Flunixine	-0.65607	0.352069616
+Flecainide	-0.65571	0.268113213
+Mono(2-ethylhexyl) phthalate (MEHP)	-0.65472	0.925073903
+Hematoxylin	-0.65168	0.732382468
+Quebrachitol	-0.6514	0.400106016
+Thymidine	-0.65031	0.516156053
+3-Hydroxybutyric acid	-0.6463	0.449881764
+Gallocatechin	-0.64623	0.140951815
+Uridine monophosphate (UMP)	-0.642	0.417289089
+3-hydroxy-C4-homoserine lactone	-0.64033	0.907911261
+Desoxycortone	-0.64005	0.717695172
+"3,4-Dimethylbenzoic acid"	-0.63976	0.24960733
+L-GLUTAMINE	-0.63715	0.265232164
+Thymine	-0.63709	0.462659522
+"Epoxy (4,5Alpha)-4,5-Dihydrosantonin"	-0.63573	0.682814492
+Glycylproline	-0.63509	0.819788078
+2-Oxobutyric acid	-0.63188	0.846459514
+gamma-Glutamyltyrosine	-0.63115	0.297517765
+13-HpOTrE(r)	-0.63104	0.485731242
+DL-Tryptophan	-0.63046	0.347540916
+Salidroside	-0.63003	0.535108238
+DL-Arginine	-0.62966	0.300448431
+"1,2-dihydroxyheptadec-16-yn-4-yl acetate"	-0.62424	0.21603928
+Physostigmine	-0.62387	0.225877363
+LIGUSTILIDE	-0.62351	0.717423199
+Alanine	-0.61684	0.479149797
+Apigenin	-0.61412	0.267348957
+cis-Aconitic acid	-0.61407	0.527185064
+Primidone (Mysoline)	-0.60914	0.542360286
+Estrone	-0.60698	0.652884745
+3-Ureidopropionic acid	-0.60165	0.408323358
+D-(+)-Pyroglutamic Acid	-0.6013	0.858268105
+Riluzole	-0.60005	0.516141799
+6-Methylnicotinamide	-0.59462	0.337790103
+skimmin	-0.59233	0.658110644
+3-METHYLADENINE	-0.59179	0.449881764
+4-Pyridoxic acid	-0.59152	0.738998977
+Oleic acid	-0.58997	0.337790103
+Nootkatone	-0.58972	0.606951534
+N-Acetylalanine	-0.58678	0.462193493
+L-Alanyl-L-proline	-0.58619	0.871730005
+D-alpha-Hydroxyglutaric acid	-0.58454	0.666250538
+Norfenefrine	-0.58194	0.39421028
+2-methoxy-6-pentadecylbenzoic acid	-0.58186	0.645142761
+Phosphatidylinositol lyso 18:1	-0.57898	0.641437023
+D-Gluconic acid	-0.57807	0.522748476
+MONO-METHYL GLUTARATE	-0.57762	1.406569931
+Salvinorin A	-0.57646	0.540592433
+Juglalin	-0.57545	0.597326019
+Epigallocatechin	-0.5743	0.996108834
+trans-Cinnamic acid	-0.57355	0.535286954
+Hypoxanthine	-0.57061	0.429095299
+"2',3'-Dideoxyinosine"	-0.56876	0.307179509
+Kinetin	-0.56553	0.550922911
+Metolachlor OXA	-0.55951	0.253062368
+2'-O-Methyluridine	-0.55054	0.650683611
+2-(3-pentadecylphenoxy)acetic acid	-0.54366	0.924672066
+3-(4-Hydroxyphenyl)propionic acid	-0.54341	0.285318252
+L-Phenylalanine	-0.54081	0.628784318
+Alanyltyrosine	-0.53935	0.413694065
+"(2R)-2-[(2R,5S)-5-[(2S)-2-hydroxybutyl]oxolan-2-yl]propanoic acid"	-0.53844	0.597326019
+Mepacrine	-0.53688	0.360274515
+DL-Glutamine	-0.53579	0.578972224
+Dihydrothymine	-0.53484	0.436839414
+Adenosine	-0.53059	0.18938445
+2'-Deoxyinosine	-0.52841	0.449172612
+N-Acetyl-L-glutamine	-0.52802	0.297026934
+2-OXOADIPATE	-0.52556	0.408479067
+Catechol	-0.52422	0.532243949
+2-(3-Hydroxycyclohexyl)-5-(2-methyl-2-octanyl)phenol	-0.52296	0.375800438
+3-GluA Soyasapogenol B	-0.51693	0.325497093
+"5-hydroxy-3,7-dimethoxy-2-(4-methoxyphenyl)-4H-chromen-4-one"	-0.51667	0.318767811
+4-PYRIDOXATE	-0.51553	0.228008541
+Nicotinic acid	-0.51435	0.625031814
+13-HpOTrE	-0.51287	0.510350837
+Uracil	-0.5125	0.514903499
+Ochrephilone	-0.51221	0.658110644
+Glutamine (D)	-0.5121	0.190743387
+Phosphatidylethanolamine lyso 18:0	-0.5111	0.341912251
+Gedunol	-0.50722	0.23665438
+D-(+)-Malic acid	-0.50698	0.45832093
+LEVODOPA	-0.50648	0.539673578
+Upsilon-L-Glutamyl-L-glutamic acid	-0.50382	0.245017507
+13(S)-HOTrE	-0.50333	0.594978244
+5-(4-methyl-5-oxo-2H-furan-3-yl)pentanoic acid	-0.50313	0.717695172
+"5,10-dimethoxy-2,2-dimethylpyrano[3,2-g]chromen-8-one"	-0.50254	0.202760166
+N-ACETYL-L-ALANINE	-0.50183	0.202607799
+methyl orsellinate	-0.50069	0.338907004
+terrein	-0.49871	0.177308989
+Ribose	-0.49491	0.892281389
+3-O-methylfunicone	-0.49257	0.221009924
+15-OxoETE	-0.49178	0.77994424
+5-Hydroxy Diclofenac	-0.49135	1.059035507
+"2-Hydroxy-3,4-Dimethoxybenzoic Acid"	-0.49129	0.163492329
+GUAIAZULENE	-0.4885	0.682814492
+Glycine	-0.48512	0.608306423
+"2,2-Bis(hydroxymethyl)propionic acid"	-0.48504	0.29556634
+Phosphatidylethanolamine lyso 22:6	-0.48449	0.285318252
+Carylophyllene Oxide	-0.48312	0.400106016
+Picrotin	-0.48077	0.454730004
+3-Epilupeol	-0.47832	0.299123292
+Hexadecanedioic acid	-0.47699	0.501923891
+Tomelukast	-0.4767	0.510196151
+Suberic acid	-0.4748	0.396520018
+Phosphatidylethanolamine 18:2-18:2	-0.47352	0.433857244
+"2,8-quinolinediol"	-0.47328	0.346459477
+15-OxoEDE	-0.47263	0.822896568
+Pyruvic acid	-0.47186	0.462659522
+Piceatannol	-0.47144	0.466189825
+Marticin	-0.4711	0.565542877
+Abruquinone B	-0.46568	0.210666116
+Phosphatidylinositol 16:0-18:1	-0.46502	0.112832979
+Serine	-0.46432	0.847069864
+alpha-Linolenoyl ethanolamide	-0.46296	0.738998977
+5-O-methyllicoricidin	-0.46254	1.106548956
+Nor-9-carboxy-delta9-THC	-0.46153	0.240959503
+"cis-5,8,11,14,17-Eicosapentaenoic acid"	-0.45994	0.737050825
+Prolylyphenylalanine	-0.45951	0.328716051
+Trehalose	-0.45884	0.535108238
+"3,4,5-trimethoxycinnamic acid"	-0.45834	0.372695605
+3-Isochromanone	-0.45733	0.511900733
+monolinolein	-0.45617	0.286375073
+Taurine	-0.4542	0.217455716
+"3,5-dihydroxydecanoic acid"	-0.45288	0.612592375
+ADONITOL	-0.45258	0.487822755
+Fenhexamid	-0.45166	0.282637439
+"3,4-Dimethoxycinnamic acid"	-0.45141	0.265232164
+"2,3-dinor Prostaglandin E1"	-0.44732	0.651870448
+trans-3-Indoleacrylic acid	-0.44364	0.257431966
+5-HYDROXY-L-TRYPTOPHAN	-0.44209	0.337790103
+Gabapentin Related Compound E	-0.43686	0.732124581
+Aflatoxin G2	-0.43209	0.245002238
+(+/-)9-HpODE	-0.43167	0.469480144
+Cynaroside	-0.4313	0.321791291
+Creatinine	-0.42807	0.219229184
+2-(2-amino-3-methylbutanamido)-3-phenylpropanoic acid	-0.4272	0.479149797
+monoolein	-0.42569	0.569457346
+2-Hydroxyisovaleric acid	-0.41977	0.224739167
+Indole-3-carboxylic acid	-0.41776	0.392309128
+7-Hydroxymitragynine	-0.41683	0.563169721
+"DL-3,4-Dihydroxymandelic acid"	-0.40849	0.088576035
+2'-O-Methylinosine	-0.40648	0.271232415
+Proline-hydroxyproline	-0.40297	0.326896115
+1-Methylguanine	-0.40174	0.320581189
+p-Coumaraldehyde	-0.40161	0.433857244
+(+/-)13-HpODE	-0.40035	0.409760222
+(5Z)-3-aminonon-5-enoic acid	-0.40021	0.331120424
+"6,7,3',4'-Tetrahydroxyflavanone"	-0.39958	0.1693536
+(+/-)9(10)-DiHOME	-0.39737	0.509676248
+3-Hydroxydecanoic acid	-0.39616	0.447989197
+PHYSOSTIGMINE SALICYLATE	-0.38936	0.153792824
+L-Homocystine	-0.38807	0.401231373
+4-AMINOBUTANOATE	-0.38684	0.375800438
+Pyridoxal	-0.38453	0.599306625
+4-O-Methylphloracetophenone	-0.38444	0.208758611
+"ethyl 2-(2-acetyl-3,5-dihydroxyphenyl)acetate"	-0.38189	0.23820743
+O-ACETYL-L-CARNITINE	-0.38112	0.588346629
+Cetirizine	-0.3802	0.335057319
+5-HYDROXYINDOLEACETATE	-0.37896	0.222768981
+Nicotinamide	-0.37693	0.455361543
+Valsartan metabolite	-0.37505	0.316889895
+gamma-Glutamylmethionine	-0.37438	0.158922224
+"1,4-dihydroxyheptadec-16-en-2-yl acetate"	-0.37425	0.205930416
+"3,8,9-trihydroxy-10-propyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one"	-0.37275	0.271329745
+Acetophenone	-0.37131	0.171862344
+Roquefortine C	-0.371	0.239441821
+Hydrocortisone	-0.37087	0.459920911
+Arachidic acid	-0.36985	0.29556634
+"9-Oxo-10(E),12(E)-octadecadienoic acid"	-0.36871	0.618848805
+"5,6-DIHYDROURACIL"	-0.36755	0.278354234
+Isosakuranin	-0.36453	0.232473101
+Coniferylaldehyde	-0.36149	0.249314221
+Sulfocholic acid	-0.35952	0.447587326
+"6-benzyl-4-oxo-1,4-dihydropyridine-3-carboxamide"	-0.35935	0.411862805
+Caryophyllene [T(-)]	-0.35767	0.193731819
+"methyl 2-(2,6-dihydroxy-4-methylbenzoyl)-3,5-dimethoxybenzoate"	-0.35547	0.339646874
+Diethyloxalpropionate	-0.3551	0.262632402
+4-Guanidinobutyric acid	-0.3545	0.124516229
+"3,4-Dihydroxy-L-phenylalanine"	-0.35358	0.225877363
+Cannabichromevarin	-0.35285	0.511943081
+Ferulic acid	-0.34848	0.308759325
+"(12Z)-9,10,11-trihydroxyoctadec-12-enoic acid"	-0.34822	0.312622667
+L(+/-)-Alliin	-0.34806	0.297474687
+Linoleic acid	-0.34764	0.957463863
+3-Hydroxytyramine	-0.34745	0.590100675
+Zeatin	-0.34736	0.361460827
+Phenylethyl 2-Glucoside	-0.34657	0.173756698
+Taurodeoxycholic Acid (sodium salt)	-0.34607	0.129713171
+D-Glucosamine	-0.34359	0.347405589
+7-Oxocholesterol	-0.33734	0.201763824
+picein	-0.33553	0.112945622
+N-Acetyl-L-tyrosine	-0.32968	0.171282115
+Sebacic acid	-0.32954	0.457934319
+PSEUDO-ANISATIN	-0.32744	0.451745744
+"16-Heptadecyne-1,2,4-triol"	-0.32657	0.472022287
+"1,2-dihydroxyheptadec-16-en-4-yl acetate"	-0.3255	0.318550713
+Histamine	-0.32124	0.060475756
+N-Acetylserotonin	-0.31764	0.229133267
+"4,6,8-trihydroxy-7-methoxy-3-methyl-3,4-dihydroisochromen-1-one"	-0.31678	0.105030771
+2'-O-Methylguanosine	-0.31455	0.307179509
+Hymecromone	-0.3145	0.267348957
+7-Methylguanine	-0.31154	0.325414398
+Laudanosine	-0.31073	0.30835279
+"4',5,7-trihydroxy-3,6-dimethoxyflavone"	-0.30969	0.202760166
+Prolylglycine	-0.30753	0.202282467
+Sotalol	-0.30662	0.271232415
+N-Methylanthranilic Acid	-0.30547	0.312560225
+Daidzein	-0.30537	0.091021988
+5-Methylcytidine	-0.30321	0.314688291
+Leucylleucyltyrosine	-0.30015	0.501386235
+Protoporphyrin IX	-0.29907	0.209236461
+Arachidonic acid	-0.29483	0.266433621
+Napelline	-0.29482	0.554380231
+L-Lysine	-0.29276	0.25051104
+Hexanoylglycine	-0.2921	0.336346181
+Sulfanilic acid	-0.29111	0.329373842
+HYDROQUINONE	-0.29015	0.312560225
+L-Serine	-0.28584	0.275707742
+"13,14-Dihydro-15-keto Prostaglandin A2"	-0.28393	0.257431966
+Docosahexaenoic acid	-0.28243	0.444651582
+PANTOLACTONE	-0.2819	0.433456452
+Taurodeoxycholic Acid	-0.28135	0.144583827
+Sedanolide	-0.27952	0.408479067
+Chloridazon	-0.27831	0.337790103
+Sucrose	-0.27657	0.245835208
+Indole	-0.27626	0.464187062
+L-METHIONINE	-0.27553	0.307179509
+Hydrocotarnine	-0.27549	0.273794584
+1-Hydroxy-2-naphthoic acid	-0.27333	0.306730444
+N-(5-acetamidopentyl)acetamide	-0.27267	0.222768981
+4-deoxyphloridzin	-0.27231	0.087352894
+Astilbin	-0.27189	0.094743951
+4-Oxoproline	-0.2715	0.215660916
+O-Desmethyltramadol	-0.26986	0.650256366
+Linoleoyl Ethanolamide	-0.26881	0.34554429
+onopordopicrin	-0.26877	0.158484112
+1-(2-Chlorophenyl)piperazine (o-CPP)	-0.26461	0.162752566
+4-hydroxy-8-methoxy-5-methyl-3-(3-methylbut-2-enyl)chromen-2-one	-0.26271	0.222768981
+4-Aminophenol	-0.26	0.209236461
+Indapamide	-0.25589	0.141186193
+2'-Deoxyadenosine	-0.25384	0.325726886
+Seneciphyllin	-0.2528	0.177191416
+Diffractaic Acid	-0.25251	0.17086998
+"3-Hydroxy-3',4',5'-trimethoxyflavone"	-0.25239	0.080477376
+Succinic acid	-0.24702	0.109014821
+cirsimaritin	-0.24562	0.093546432
+Ala-Phe	-0.24304	0.190777078
+1-Methyladenine	-0.24179	0.170741267
+3-Hydroxybenzoic acid	-0.24053	0.187307187
+"7-methoxy-6-(1,2,3-trihydroxy-3-methylbutyl)chromen-2-one"	-0.23691	0.079469713
+"3,4-Dihydroxyphenylacetic acid"	-0.23686	0.171185486
+[1-hydroxy-1-(4-methoxyphenyl)propan-2-yl] 4-methoxybenzoate	-0.23621	0.174983052
+"N-(2,5-dioxocyclopentyl)acetamide"	-0.2349	0.186392327
+N-Methylthreonine	-0.23373	0.318369881
+cis-4-Hydroxy-D-proline	-0.23257	0.252479438
+N-Acetylaspartic acid	-0.23169	0.118102026
+L-(-)-Methionine	-0.22782	0.278016361
+Moclobemide	-0.22753	0.318505498
+coniferin	-0.22398	0.17560729
+4-Vinylphenol	-0.22207	0.123597393
+Salsolidine	-0.22138	0.149647886
+N-Acetyl-DL-norvaline	-0.21821	0.165058201
+3-Phosphoglyceric acid	-0.21801	0.146271377
+Telmisartan	-0.21563	0.096524748
+wogonin	-0.21562	0.263946287
+Benzyl cinnamate	-0.21213	0.112945622
+Cnidioside A	-0.21194	0.101664323
+Phosphatidylethanolamine lyso 20:4	-0.21055	0.108959003
+Oleoyl ethanolamide	-0.2095	0.19205252
+"13,14-Dihydro-15-keto-tetranor prostaglandin F1alpha"	-0.20669	0.144583827
+L(+)-Ornithine	-0.20664	0.247767112
+N-Tigloylglycine	-0.20648	0.05603583
+Valsartan acid	-0.20391	0.23015023
+Taurocholic acid	-0.20129	0.083572373
+Phosphatidylethanolamine lyso 20:0	-0.20111	0.084705717
+L(-)-Carnitine	-0.19972	0.199502873
+3-HYDROXY-4-(SUCCIN-2-YL)-CARYOLANE delta-LACTONE	-0.19517	0.196215239
+Quercetin	-0.19189	0.064165373
+Docosahexaenoyl Ethanolamide	-0.18842	0.133842673
+Acamprosate	-0.18673	0.069504338
+3-Methyladipic acid	-0.1851	0.08159218
+Citrinin	-0.18427	0.32561657
+Ramipril	-0.18203	0.121059048
+6-Hydroxycaproic acid	-0.17938	0.135435525
+Threonine	-0.17932	0.171282115
+Hordenine	-0.17699	0.289603354
+Gibberellin A4	-0.17578	0.506486184
+L-Cysteine-S-sulfate	-0.17392	0.032161967
+abscisic acid	-0.17345	0.094063873
+N-Methylhistamine	-0.17123	0.136177691
+7-Deacetylkhivorin	-0.16679	0.069830649
+Aldosterone	-0.16491	0.098176741
+S-Adenosyl-homocysteine	-0.16466	0.185193244
+GLYCOCHOLATE	-0.16242	0.059144977
+DL-Homoserine	-0.1528	0.221284533
+Acetylcholine	-0.15066	0.157066409
+"5-Hydroxy-2',4',7,8-Tetramethoxyflavone"	-0.15009	0.064976673
+Sulcatol	-0.14641	0.253062368
+Thymol-beta-D-glucoside	-0.14592	0.23665438
+alpha-Lactose	-0.14556	0.101050052
+LITHOCHOL-11-ENIC ACID	-0.14464	0.064628787
+rhein	-0.14415	0.068694719
+Urocanic acid	-0.13856	0.050093052
+Propylparaben	-0.13727	0.042206011
+NALPHA-ACETYL-L-LYSINE	-0.13692	0.087554741
+9-HPODE	-0.13285	0.219646678
+"Deoxysappanone B 7,3'-Dimethyl Ether"	-0.13111	0.079469713
+13-HOTrE(r)	-0.12877	0.113086467
+Maleic acid	-0.12479	0.100370979
+"4-Hydroxy-2',3,4',6'-tetramethoxychalcone"	-0.12378	0.071046274
+2-Methoxy-4-vinylphenol	-0.12134	0.079469713
+Docosatetraenoic acid	-0.11987	0.080791116
+Cetirizine N-Oxide	-0.11891	0.054684085
+"DL-alpha,epsilon-Diaminopimelic acid"	-0.11797	0.100370979
+"(9Z,12E)-15,16-dihydroxyoctadeca-9,12-dienoic acid"	-0.11719	0.076341578
+5-Aminovaleric acid	-0.11491	0.069794947
+Valaciclovir	-0.11344	0.088309841
+Menaquinone-4	-0.11338	0.064976673
+Glycyl-L-proline	-0.11195	0.083072534
+Calcitriol	-0.10897	0.177191416
+Shanzhiside methyl ester	-0.10852	0.093368704
+Enterolactone	-0.10823	0.048356543
+2-decyl-3-hydroxypentanedioic acid	-0.10758	0.061940831
+2-Anisic acid	-0.10514	0.096524748
+cordycepin	-0.103	0.177308989
+dihydroferulic acid	-0.10275	0.029383517
+(Z)-2-octylpent-2-enedioic acid	-0.1015	0.121059048
+"1,4-dihydroxyanthraquinone"	-0.10148	0.033290534
+"3,7-Epoxycaryophyllan-6-Ol"	-0.10003	0.087352894
+Pyridoxamine	-0.099546	0.05774385
+L-Aspartic acid	-0.099402	0.052835958
+3-DEHYDROSHIKIMATE	-0.097123	0.082069332
+L-(+)-Lysine	-0.096636	0.060475756
+L-Tyrosine	-0.096576	0.064628787
+(E)-2-decylpent-2-enedioic acid	-0.094193	0.052919347
+Mycophenolic acid	-0.093885	0.060700446
+Docosahexanoic acid	-0.093409	0.100370979
+N-Acetylmuramic Acid	-0.093265	0.042009822
+5-Hydroxytryptophan	-0.092864	0.046105065
+4-Acetamidobutanoic acid	-0.09108	0.042397501
+Oleoyl sarcosine	-0.08976	0.064976673
+Azaserine	-0.087477	0.043850787
+Glycerophospho-N-palmitoyl ethanolamine	-0.084127	0.089087584
+Phosphatidylethanolamine lyso alkenyl 18:0	-0.084095	0.060101529
+Glimepiride	-0.084033	0.0401671
+Hinokitiol	-0.083466	0.070494224
+Hecogenin	-0.080533	0.089146237
+Andrastin C	-0.07658	0.042009822
+L-Valine	-0.075872	0.054950154
+Droperidol	-0.075029	0.019147061
+2-hydroxy-6-pentadecylbenzoic acid	-0.072882	0.041240275
+3-[(1-Carboxyvinyl)oxy]benzoic acid	-0.071943	0.042397501
+"5-[(Z)-14-(3,5-dihydroxyphenyl)tetradec-8-enyl]benzene-1,3-diol"	-0.071825	0.074749808
+Beta-Caryophyllene Alcohol	-0.070284	0.048779086
+Gyromitrin	-0.068306	0.038859033
+Phomalone	-0.067071	0.098367342
+Sinomenine	-0.0658	0.0138107
+3-Methylcrotonylglycine	-0.065337	0.075855159
+Methylgallate	-0.063013	0.013322298
+"2',4',6'-Trihydroxydihydrochalcone"	-0.062663	0.026032091
+4-Hydroxybenzotriazole	-0.062269	0.039429341
+4'-Methoxyacetophenone	-0.061714	0.024209874
+asterric acid	-0.058985	0.117026032
+"(5E,8Z)-4,7-dihydroxy-2-methyl-2,3,4,7-tetrahydrooxecin-10-one"	-0.055736	0.060700446
+Resibufogenin	-0.051359	0.023439116
+Phosphatidylinositol 16:0-18:2	-0.050326	0.014771182
+17alpha-Ethynylestradiol	-0.048995	0.060216258
+DL-beta-Leucine	-0.047423	0.015148774
+3-hydroxy-C10-homoserine lactone	-0.044775	0.069489048
+Phosphatidylethanolamine lyso alkenyl 16:0	-0.044738	0.023187082
+4-methylumbelliferone	-0.044688	0.027265037
+Aspartame	-0.044044	0.014771182
+(+)-ar-Turmerone	-0.036758	0.019147061
+Citric acid	-0.036626	0.009545704
+"1,7-bis(4-hydroxyphenyl)-5-methoxyheptan-3-one"	-0.036407	0.02081141
+octadec-9-ynoic acid	-0.036391	0.054718566
+LysoPhosphatidylcholine	-0.034888	0.019519394
+N-Acetyldopamine	-0.032301	0.048356543
+N-Benzylformamide	-0.032146	0.023173338
+Monobenzyl phthalate	-0.031996	0.012838918
+"(2S,3S)-(-)-3-Phenylglycidol"	-0.029467	0.024209874
+Salicylic acid	-0.02792	0.010581332
+RICININE	-0.026348	0.02081141
+DL-Alanine	-0.024019	0.029885678
+3-Methylglutaric acid	-0.018055	0.010848417
+8-Isoprostaglandin F1beta	-0.017265	0.007238883
+(+/-)9-HODE	-0.014959	0.013322298
+1-Chlorobenzotriazole	-0.013368	0.008481539
+Dodecylbenzenesulfonic acid	-0.012208	0.006982834
+norlichexanthone	-0.012214	0.010158782
+Oleic	-0.01094	0.012101459
+Roccellic Acid	-0.01086	0.009932109
+Nitrendipin	-0.010657	0.010265492
+maesopsin	-0.010474	0.008043329
+Corynanthine	-0.0096668	0.005911715
+"methyl 3-(3,4-dihydroxy-5-phenyloxolan-2-yl)-3-hydroxypropanoate"	-0.0044018	0.002019816
+Anabasine Hydrochloride	-0.0042619	0.001945648
+Cannabidiolic acid	-0.0034245	0.001117574
+Valine	0.00092937	0.000295421
+Lorazepam	0.0008147	0.000217202
+Adenosine 5'-monophosphate	0.010517	0.005823675
+Prazosin HCl	0.012533	0.015400685
+Beauverolide I	0.013588	0.010794987
+Taurochenodeoxycholic Acid (sodium salt)	0.015384	0.006427109
+gardenoside	0.015907	0.011334043
+Xanthine	0.016364	0.008640997
+Dronedarone	0.016823	0.010309963
+3-Amino-Beta-Pinene	0.020823	0.036916111
+Indole-3-acrylic acid	0.021659	0.030500219
+4-oxo-5-phenylpentanoic acid	0.022108	0.021764686
+"9-(2,3-dihydroxypropoxy)-9-oxononanoic acid"	0.023995	0.017638298
+2-(8-hydroxyoctyl)-6-methoxybenzoic acid	0.024608	0.018580094
+Tyrosylalanine	0.026088	0.018312743
+N-Isovalerylglycine	0.026401	0.008246887
+Allantoin	0.028529	0.026724327
+5-(hydroxymethyl)-3-(1-hydroxy-4-methylpentyl)oxolan-2-one	0.029357	0.022139271
+Paeonol	0.03029	0.012333735
+3-Deoxycaryoptinol	0.033855	0.049372311
+"11(Z),14(Z)-Eicosadienoic acid"	0.035771	0.01466785
+L-Proline	0.038323	0.031064314
+Glycyl-L-leucine	0.038372	0.02081141
+Zeranol	0.040318	0.019396762
+"3,5-Dimethoxybenzoic acid"	0.041039	0.019174294
+Dihydrocoumarin	0.046258	0.027302033
+Eupatilin	0.046865	0.015895936
+"6,8-Diprenylnaringenin"	0.047284	0.066619021
+2-Naphthalenesulfonic acid	0.048889	0.068694719
+Deoxynivalenol 3-glucuronide	0.05017	0.0401671
+2-Benzothiazolesulfonic acid	0.054394	0.068694719
+(5E)-7-methylidene-10-oxo-4-(propan-2-yl)undec-5-enoic acid	0.055432	0.080791116
+L-ARABITOL	0.059415	0.045246289
+L-kynurenine	0.063137	0.045246289
+L-Pyroglutamic acid	0.067653	0.13017007
+D-(+)-Proline	0.068464	0.041311914
+Butylparaben	0.069056	0.063039124
+Deoxycholic Acid	0.070342	0.041751561
+12a-HYDROXY-5-DEOXYDEHYDROMUNDUSERONE	0.071729	0.054841736
+Celastrol	0.073775	0.035259658
+PHOSPHO(ENOL)PYRUVIC ACID	0.076325	0.059135024
+DL-Stachydrine	0.077948	0.054684085
+Milbemectin A4	0.078444	0.049771493
+Hexanoic acid	0.078599	0.059135024
+"2-Amino-1,3,4-octadecanetriol"	0.07974	0.019147061
+PUTRESCINE DIHYDROCHLORIDE	0.080549	0.043461808
+Rhodinyl Acetate	0.081445	0.038246786
+Tiglic acid	0.086027	0.11017186
+4-Hydroxy-6-methyl-2-pyrone	0.086815	0.024095091
+Creatine	0.09726	0.091627591
+Oleamide	0.097344	0.0709849
+5-METHYLCYTOSINE HYDROCLORIDE	0.099965	0.1514045
+"2,4-Dinitrophenol"	0.10232	0.094063873
+8-(3-methoxy-2-(methoxycarbonyl)phenyl)octanoic acid	0.1027	0.05962299
+Stearamide	0.10368	0.14322279
+N-ACETYLNEURAMINATE	0.1048	0.104400678
+Valganciclovir	0.10597	0.088576035
+2-Arachidonoyl glycerol	0.10603	0.065784437
+N-ACETYL-L-ASPARTIC ACID	0.10919	0.098176741
+Coumafuryl	0.10938	0.049771493
+Bezafibrate	0.10962	0.047507842
+2-Keto-4-methylthiobutyric acid	0.11013	0.046834911
+Desferrioxamine B	0.11501	0.126568949
+"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl) alanine"	0.11667	0.230415916
+Kainic Acid	0.11695	0.065279408
+Indole-2-carboxylic acid	0.12024	0.083461833
+Anandamide (AEA)	0.12184	0.074749808
+"1,2Alpha-Epoxydeacetoxydihydrogedunin"	0.12552	0.252712516
+Cymarine	0.12592	0.104284708
+"2,3-dinor-8-iso Prostaglandin F2?"	0.12656	0.230415916
+Methotrexate	0.12732	0.1514045
+Doxycycline	0.12757	0.143150321
+"6-(7-methyloctyl)-1H,3H,4H,6H-furo[3,4-c]furan-1-one"	0.12869	0.158046441
+3-(8-hydroxyoctyl)phenol	0.12983	0.096524748
+Lunarine	0.13095	0.054718566
+Fluvoxamine maleate	0.13223	0.054718566
+osthol	0.13496	0.054841736
+santin	0.1351	0.080534878
+Stercobilin	0.13556	0.231302714
+1-AMINOCYCLOPROPANE-1-CARBOXYLATE	0.13741	0.265688326
+Leupeptin	0.1375	0.216010713
+3-(2-amino-2-oxoethyl)-5-methyl-hexanoic acid	0.13973	0.041020654
+"1,3-Dideacetyl-7-Deacetoxy-7-Oxokhivorin"	0.14404	0.081377371
+N-Oleoyl Dopamine	0.14498	0.046051946
+6-Hydroxymelatonin	0.14976	0.059025556
+herniarin	0.15164	0.155143991
+Meglutol	0.15261	0.162133904
+sesamin	0.15599	0.105296347
+"2,6-dihydroxyanthraquinone"	0.15755	0.196215239
+ACTINONIN	0.15772	0.27645403
+9-Methyluric acid	0.16042	0.177707667
+Sodium Tetradecyl Sulfate	0.16036	0.314688291
+Azelaic acid	0.16072	0.148760002
+4-Methoxycinnamaldehyde	0.16184	0.11860393
+Valylproline	0.16417	0.087352894
+N-(9-oxodecyl)acetamide	0.16461	0.177191416
+Monobutyl phthalate	0.16592	0.32828116
+2-Hydroxyisocaproic acid	0.16611	0.064628787
+Nandrolone glucuronide	0.16616	0.107026562
+"alpha,alpha-Trehalose"	0.16722	0.086848687
+11-Deoxy prostaglandin F2beta	0.16754	0.079073554
+Nervonic acid	0.16851	0.142751958
+Upsilon-Aminobutyric acid (GABA)	0.17218	0.245919358
+1-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]ethanone	0.17523	0.255800929
+Convallatoxin	0.17703	0.32922552
+4-tert-Octylphenol	0.17787	0.271232415
+Gitoxigenin Diacetate	0.17852	0.105911115
+Andrastin D	0.17862	0.331120424
+Lovastatin	0.18082	0.079469713
+Imidazolelactic acid	0.183	0.185958943
+"2,3-dihydroxypropyl 12-methyltridecanoate"	0.18377	0.474579399
+Forskolin	0.18477	0.11860393
+3-Dehydrocholic acid	0.18815	0.105030771
+Benidipine	0.19002	0.275044541
+"3,7-Epoxycaryophyllan-6-One"	0.19147	0.342934581
+Naringenin	0.19507	0.120909858
+N-(2-hydroxyphenyl)acetamide	0.19558	0.190729912
+Ibuprofen	0.19611	0.079469713
+Deoxyuridine	0.19936	0.318767811
+Ursocholanic Acid	0.20134	0.27167869
+11beta-Hydroxyandrosterone	0.20879	0.32828116
+Ergosterol Acetate	0.20875	0.301316725
+L-Tyrosine methyl ester	0.21191	0.332304284
+Strepin P1	0.21274	0.419485575
+"1-(3,4-dihydroxyphenyl)-7-(4-hydroxyphenyl)heptan-3-one"	0.2134	0.060605563
+Dinoseb	0.21465	0.454977557
+Medroxyprogesterone	0.21582	0.23015023
+destruxin A	0.21607	0.402370621
+L-Methionine sulfoxide	0.21643	0.165089958
+Biotin	0.21814	0.165433072
+16-Hydroxyhexadecanoic acid	0.21815	0.149194532
+8-Oxo-2-deoxyadenosine	0.21849	0.121460971
+L-Norleucine	0.21982	0.133842673
+Carnosine	0.2267	0.274276167
+N8-Acetylspermidine	0.22757	0.225818921
+CYCLOSERINE	0.22906	0.190238335
+"4,5-dihydroxy-3-propylcyclopent-2-en-1-one"	0.22931	0.184913933
+"1',2'-dihydro-2',6-dihydroxyrotenone"	0.22988	0.408479067
+Chloridazone-methyl-desphenyl	0.22987	0.449869527
+9-methoxycarbonyldec-9-enoic acid	0.23096	0.32896608
+"3,14-dihydro-15-keto-tetranor Prostaglandin E2"	0.23372	0.22231949
+trans-4-Phenyl-4-piperidinocyclohexanol	0.23521	0.079469713
+Acebutolol	0.23771	0.281332265
+Hexadecanamide	0.24138	0.188150296
+Alverine Citrate	0.24277	0.211061334
+Harmane	0.24529	0.352069616
+N-Acetylvaline	0.24572	0.107365649
+Sulfamethazine	0.24587	0.408479067
+7-Methylsulfenylheptyl isothiocyanate	0.2461	0.253373584
+Tretinoin	0.25099	0.176362778
+Hydroxyvalerenic Acid	0.25359	0.084383863
+3-Phosphonopropionic acid	0.25432	0.429316988
+2-Hydroxybenzothiazole	0.25711	0.431317297
+"(5S)-5-hydroxy-1,7-diphenylheptan-3-one"	0.25783	0.126382993
+Benzyl Isothiocyanate	0.25786	0.144765622
+beta-Hydroxymyristic acid	0.25864	0.178309646
+Triptophenolide	0.25898	0.16620289
+Tricosanoic acid	0.26126	0.151139939
+L-Glutamic acid	0.26173	0.363231357
+methyl palmitoleate	0.26187	0.228008541
+p-Benzoquinone	0.26224	0.231361899
+Epinephrine	0.26401	0.093778127
+"15-Deoxy-delta12,14 -Prostaglandin J2"	0.26716	0.265392166
+Thymol	0.26724	0.329132845
+N-ALPHA-ACETYL-L-ASPARAGINE	0.26939	0.089813311
+"5,6-Dimethylbenzimidazole"	0.27116	0.344103173
+Ethyl oleate	0.2781	0.222950358
+1-Methylxanthine	0.27926	0.265448181
+18-beta-Glycyrrhetinic acid	0.28004	0.325414398
+Dopamine	0.28121	0.321791291
+6-Hexanoyl-D-erythro-sphingosine	0.28127	0.394134935
+"4-methyl-5-oxo-2-pentyl-2,5-dihydrofuran-3-carboxylic acid"	0.28192	0.159793502
+DEOXYCYTIDINE	0.2849	0.408289999
+Cytidine	0.28527	0.482105042
+Perillartine	0.28586	0.50416438
+DIGOXIGENIN	0.28628	0.408479067
+12-Cytisineacetamide	0.28679	0.542708661
+L-(+)-Citrulline	0.2946	0.243211801
+Riboflavin	0.29687	0.158321497
+Monocrotaline	0.29769	0.618848805
+"2,4-diacetylphloroglucinol"	0.29934	0.445111255
+(+/-)8(9)-DiHET	0.30323	0.368160676
+Eseroline Fumarate	0.30348	0.123176187
+"1,7-Dideacetoxy-1,7-Dioxo-3-Deacetylkhivorin"	0.30559	0.634661798
+hydroquinidine	0.30559	0.634661798
+4-Methyl-2-oxovaleric Acid	0.30728	0.185958943
+Strophanthidin	0.30892	0.653001932
+trans-10-Heptadecenoic Acid	0.3113	0.321791291
+3-[4-methyl-1-(2-methylpropanoyl)-3-oxocyclohexyl]butanoic acid	0.31298	0.400925162
+4-Phenylbutyric acid	0.31491	0.624500992
+1-O-b-D-glucopyranosyl sinapate	0.31506	0.117026032
+2-O-Methyladenosine	0.31755	0.204926782
+N-Oleoyl-Phenylalanine	0.32021	0.304684718
+NEROL	0.32061	0.314688291
+Secoisolariciresinol	0.32254	0.217455716
+"1,7-bis(4-hydroxyphenyl)heptan-3-one"	0.32273	0.318559757
+tetradec-5-ynoic acid	0.32272	0.514903499
+4-Hydroxybenzaldehyde	0.32303	0.442528891
+Idebenone	0.32339	0.145651442
+Cholic acid	0.32385	0.18938445
+ONONETIN	0.32427	0.114062365
+Ala-Ile	0.32523	0.208155025
+11A-Acetoxyprogesterone	0.3283	0.510139916
+Sinapinic acid	0.32831	0.276101229
+"(2R)-2,3-Dihydroxypropanoic acid"	0.33045	0.392041273
+Argatroban	0.33246	0.542360286
+osajin	0.3355	0.234987479
+Deoxycorticosterone 21-glucoside	0.34144	0.132108442
+Scopoletin	0.34192	0.239652921
+3-[(4-chlorobenzoyl)amino]propanoic acid	0.34315	0.583642459
+3(2'-Chlorophenyl)-7-hydroxy-4-phenylcoumarin	0.34323	0.334362733
+Bilirubin	0.34408	0.122939799
+"(2E,4E,12Z)-N-(2-methylpropyl)octadeca-2,4,12-trienamide"	0.34458	0.137987949
+(-)-Camphanic acid	0.34719	0.361760409
+TRIGONELLINE	0.34733	0.422887512
+KOBUSONE	0.34848	0.463807832
+"5,7-dihydroxy-4-(4-methoxyphenyl)-3,4-dihydrochromen-2-one"	0.34952	0.174573882
+N-alpha-L-Acetyl-arginine	0.3496	0.249939244
+Cymarin	0.35011	0.360224741
+Lithocholic Acid	0.35181	0.314688291
+"18-Aminoabieta-8,11,13-Triene Sulfate"	0.35251	0.542708661
+Glycocholic acid	0.35858	0.720082223
+D-Alanyl-D-alanine	0.35881	0.532243949
+13-HOTrE	0.36131	0.619716382
+Humulone	0.36178	0.505539281
+Prostaglandin F2alpha 1-11-lactone	0.36415	0.733744778
+Phenethylamine	0.36722	0.825416911
+Lacidipine	0.36732	0.449172612
+Levulinic acid	0.36799	0.210764887
+Eicosenoic acid	0.36884	0.347183357
+Limonin	0.37196	0.408479067
+Isotretinoin	0.37453	0.738998977
+bisdethiobis(methylthio)gliotoxin	0.37931	0.175074031
+4-HYDROXY-L-PROLINE	0.38085	0.823185519
+Cotarnine Chloride	0.39444	0.549519945
+"20-Hydroxy-(5Z,8Z,11Z,14Z)-eicosatetraenoic acid"	0.402	0.337790103
+(+/-)19(20)-DiHDPA	0.40261	0.275044541
+Hydroxyprogesterone	0.40717	0.660528683
+Methyl Jasmonate	0.41317	0.221176114
+Progesterone	0.41428	1.543224162
+Erythronolactone	0.41494	0.429597178
+Atorvastatin	0.41683	0.590100675
+dehydroabietic acid	0.41903	0.679251522
+Alanopine	0.42088	0.653001932
+Xanthohumol	0.42278	0.202074935
+2'-Deoxyuridine-5-monophosphate	0.42321	0.32310529
+bilobol	0.42422	0.298069535
+Phenylpyruvic acid	0.42428	0.222203568
+2-Isopropylmalic acid	0.42592	0.265688326
+Monolaurin	0.42953	0.516156053
+PS(18:1/9-HODE)	0.43043	0.297474687
+O-geranylconiferyl alcohol	0.4308	0.539974627
+Oleoyl-L-alpha-lysophosphatidic acid	0.4314	1.472434539
+"5-[(Z)-12-(3,5-dihydroxyphenyl)dodec-8-enyl]benzene-1,3-diol"	0.43249	0.217857163
+"PS(18:0/17,18-EpETE)"	0.43434	0.33778065
+"2,6-Dihydroxy-4-Methoxytoluene"	0.43759	0.286744728
+2-Methylbutyl beta-D-glucopyranoside	0.44113	0.210440439
+2-Methyl-S-benzothiazole	0.446	0.469480144
+Atractylenolide III	0.45171	0.606565197
+Diflucortolone pivalate	0.45921	0.363231357
+Lignoceric acid	0.4599	0.511900733
+"(5E)-2-heptyl-3,4,7-trihydroxy-2,3,4,7,8,9-hexahydrooxecin-10-one"	0.46734	0.608059765
+12-oxo Phytodienoic Acid	0.47318	0.46652028
+PHOSPHOCHOLINE	0.47434	0.818814066
+"1-(2,4-dihydroxyphenyl)-2-(3,5-dimethoxyphenyl)propan-1-one"	0.47636	0.588346629
+Trachelanthine	0.47969	0.682814492
+Roxatidine acetate HCl	0.48013	0.401231373
+Mandelic Acid	0.48297	0.643400564
+Neotame	0.48498	0.658110644
+Benazepril	0.49146	0.302971281
+N-Acetylneuraminic acid	0.49164	0.542360286
+"trans,trans-2,4-Heptadienal"	0.49493	0.554380231
+"(6E)-2,6,10-trimethyldodeca-6,11-diene-2,3,10-triol"	0.4979	0.665043884
+Dihydrojasmonic Acid	0.50413	0.372695605
+3Beta-Acetoxydeoxodihydrogedunin	0.50661	0.812592098
+Alpha-Hydroxydeoxycholic Acid	0.50924	0.50416438
+"13Z,16Z-Docosadienoic Acid"	0.51977	0.497764121
+1-METHYLNICOTINAMIDE	0.52047	0.289814914
+"2-(3-hydroxy-5-methoxyphenoxy)-6-(hydroxymethyl)oxane-3,4,5-triol"	0.52046	0.465872316
+Cafestol	0.52276	0.696134651
+delta7-Dafachronic acid	0.5254	0.449869527
+Cucurbitacin I	0.52879	0.240959503
+"(3Z,5E)-4-hydroxy-6-(4-hydroxyphenyl)hexa-3,5-dien-2-one"	0.53068	0.447453452
+angoletin	0.53702	0.738998977
+4-nitroquinoline 1-oxide	0.54046	0.741889745
+(R)-baclofen	0.54236	0.400455329
+(+/-)12(13)-DiHOME	0.54552	0.786030918
+isotaxiresinol	0.54935	0.535286954
+Chol-11-Enic Acid	0.55019	0.427081952
+ANETHOLE	0.55336	0.551494646
+Gibberellin A7	0.55497	0.24960733
+17?-Estradiol	0.55638	0.230570975
+"Benzene-1,2,4-triol"	0.55718	0.562059277
+methyl 2-benzamido-3-phenylpropanoate	0.56262	0.188954781
+Sinapoyl aldehyde	0.56322	0.340816161
+ALPHA-AMINOADIPATE	0.56498	0.509227104
+2-Mercaptobenzothiazole	0.57095	1.115476509
+8-(2-hydroxy-3-methoxy-3-methylbutyl)-7-methoxychromen-2-one	0.57302	0.249777115
+Cinnamic acid	0.57552	0.732452828
+"4-(3-hydroxybutyl)-3,5,5-trimethylcyclohex-3-en-1-ol"	0.58579	0.349177847
+Trolox	0.58615	0.720241827
+4-Hydroxyphenylpyruvic acid	0.58958	0.550922911
+Methyl Deoxycholate	0.59596	1.110894475
+Ornithine	0.59683	0.447137186
+"9,10-DiHOME"	0.59842	1.09016594
+Prunin	0.60957	0.408479067
+11-dehydro Thromboxane B2	0.61013	0.813523969
+Cochlioquinone A	0.61335	0.461690241
+Cetraxate	0.61751	0.586834402
+COLFORSIN	0.61802	0.328716051
+S-HEXYL-GLUTATHIONE	0.61888	0.268113213
+Lincomycin	0.62127	0.787679197
+Leupeptin Pr-LL	0.62164	0.25887993
+Glycitein	0.62186	0.239238356
+Sinapyl alcohol	0.62726	0.951325185
+4-Methylphenol	0.63225	0.403688863
+1-Lauroyl-2-Hydroxy-sn-Glycero-3-Phosphocholine	0.63929	0.312631588
+"(1S,3R,4S,5R)-1,3,4,5-tetrahydroxycyclohexane-1-carboxylic acid"	0.6426	0.265688326
+Difucol Hexamethyl Ether	0.64653	0.925073903
+O-7460	0.64771	0.361460827
+Gallic acid	0.64848	0.174872603
+"9-hydroxy-10,12-octadecadienoic acid"	0.64865	0.612289911
+9-HpOTrE	0.64982	0.276733193
+3-Hydroxypicolinic acid	0.65221	0.339457044
+Caffeic acid	0.67398	0.587808345
+"(7R,8R)-7,8-dihydroxy-3,5,7-trimethyl-8H-isochromen-6-one"	0.67648	1.108635403
+Lagochilin	0.6784	0.447587326
+Mappain	0.68019	1.263436187
+Ecgonine	0.685	0.617118833
+N-Acetylsphingosine	0.68711	0.281332265
+Indole-3-pyruvic acid	0.68959	0.933748638
+Galacturonic acid	0.69523	0.228008541
+Tadalafil	0.69537	0.177707667
+Anthranilic acid	0.69849	0.657439157
+Estriol	0.69994	0.973752819
+"1,2-Propanediol"	0.70037	0.710143597
+Erucic acid	0.70055	0.517540908
+pomiferin	0.70492	0.307179509
+"(5E)-3,4,9-trihydroxy-2-propyl-2,3,4,7,8,9-hexahydrooxecin-10-one"	0.72055	1.09016594
+"2,4,5-trimethoxybenzoic acid"	0.7326	0.312631588
+Caprylic acid	0.73518	0.925073903
+5alpha-Dihydrotestosterone	0.74174	0.497764121
+aurapten	0.74943	0.909318796
+Alfuzosin	0.75236	2.057798419
+4-ACETAMIDOBUTANOATE	0.75364	1.283762868
+"13,14-dihydro-15-keto-tetranor Prostaglandin E2"	0.76014	1.956166346
+Coproporphyrin I	0.76225	0.461690241
+Indole-3-carboxaldehyde	0.7628	0.554380231
+Citrulline	0.7642	0.5074631
+Carvedilol	0.77027	0.481157174
+Benzoic acid	0.77661	0.645699438
+1H-Benzotriazole-5-carboxylic acid	0.7837	0.553431769
+Resolvin E1	0.78445	0.454730004
+Docosatrienoic acid	0.79638	0.553431769
+N-Acetylmannosamine	0.79675	0.574906166
+2-(3-(8-hydroxyoctyl)phenoxy)acetic acid	0.81817	1.088347098
+Quinic acid	0.82619	1.400291554
+1-Stearoylglycerol	0.83189	0.63425002
+pinolidoxin	0.83299	0.480933673
+DL-Coniine	0.83498	0.554380231
+"2,3-Diaminopropionic acid"	0.83597	0.333238733
+Di-n-butyl phthalate	0.83862	1.589644617
+L-(+)-Lactic acid	0.85465	0.502503649
+Phosphatidylethanolamine lyso alkenyl 18:1	0.85611	0.465872316
+Sphingosine (d18:1)	0.8589	0.965371543
+(5R)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)tetradecan-3-one	0.86794	0.637008884
+2-Hydroxyphenylalanine	0.87059	0.584442418
+"8Z,11Z,14Z-Eicosatrienoic acid"	0.87425	1.705577867
+Nicotine	0.87485	1.068979695
+Palmitoylcarnitine	0.8859	0.663580295
+Grayanotoxin I	0.88892	0.713319031
+Piperonylic Acid	0.89744	1.712310216
+6-Hydroxynicotinic acid	0.9003	0.654214718
+Hippuric acid	0.90277	0.422887512
+Sumaresinolic acid	0.90388	0.342361015
+Enalapril	0.90526	0.467525901
+"5,6-Dihydroxy-3',4'-dimethoxyflavanone"	0.91425	0.417584342
+Decanoic acid	0.92602	0.531711761
+Avocadyne Acetate	0.929	0.734946211
+"Cholest-4,6-Dien-3-One"	0.95663	0.833806785
+salviaflaside	0.9766	1.420731004
+"2-hydroxy-6-[(8Z,11Z)-pentadeca-8,11,14-trien-1-yl]benzoic acid"	0.98992	0.641494089
+Amisulpride N-Oxide	1.0012	1.291145871
+7alpha-Voacangine hydroxyindolenine	1.0034	0.43500272
+13-KODE	1.0081	2.177119582
+Palmitoleic acid	1.0203	1.090091116
+N-Oleyl-Leucine	1.0334	0.408479067
+Arnicolide D	1.0335	0.665043884
+"2,4-bis(3-methylbut-2-enyl)-5-pentylbenzene-1,3-diol"	1.0375	0.761427038
+5-Methoxysalicylic acid	1.0549	0.856048884
+Dimethachlor ESA	1.0593	0.261235292
+N-Acetyl-DL-glutamic acid	1.0675	0.759975217
+2-Methoxyestrone	1.0749	0.446869756
+N-Glycolylneuraminic acid	1.0977	0.227472932
+rhodioloside	1.1035	0.635486526
+DEOXYRIBOSE	1.1057	0.592490127
+Gly-Tyr-Ala	1.1077	0.226198933
+Bialaphos	1.1126	0.996108834
+Adenine	1.1188	0.889544976
+Valsartan	1.1589	0.540592433
+4-Methyl-5-thiazoleethanol	1.1609	0.658288565
+"3-(1,2-dihydroxypropyl)-1,6,8-trihydroxyanthracene-9,10-dione"	1.1886	0.32896608
+N-Acetyl-alpha-D-glucosamine	1.2121	0.738998977
+L-Isoleucine	1.2246	0.690199554
+Methylimidazoleacetic acid	1.2249	0.818814066
+"1,4-Cyclohexanedicarboxylic acid"	1.2278	0.535108238
+(9cis)-Retinal	1.2346	2.623331814
+Beta-Peltatin	1.2533	0.40999458
+trans-3-Hexenoic acid	1.2654	0.325414398
+L-2-Aminoadipic Acid	1.2837	1.109551035
+eudesmin	1.3214	0.334738046
+Ethyl myristate	1.3322	2.980053318
+L-Cystine	1.3413	0.568491495
+Benzyl 6-O-beta-D-glucopyranosyl-beta-D-glucopyranoside	1.3431	0.32828116
+Phosphatidylethanolamine lyso 17:0	1.3514	1.167210164
+Fusaproliferin	1.3524	1.444506523
+Kanakugiol	1.3555	1.068150729
+Uric acid	1.379	0.654077621
+Bufalin	1.3832	1.589644617
+terpestacin	1.4143	0.518543039
+2-(6-hydroxyhexyl)-3-methylidenebutanedioic acid	1.4262	3.335668346
+Tyramine	1.4267	0.649461257
+Karakoline	1.4314	1.027820312
+DL-4-Hydroxyphenyllactic acid	1.4382	0.408479067
+Dihydrofolic acid	1.4782	0.375800438
+"Dihydro-4,4-dimethyl-2,3-furandione"	1.4901	0.599306625
+N-Acetylglycine	1.4918	1.146630371
+Sulfaquinoxaline	1.4934	0.475564929
+Captopril	1.5666	0.818814066
+Gardneramine	1.6114	0.431317297
+Prostaglandin K2	1.6125	0.679251522
+(R)-2-hydroxystearic acid	1.7363	1.146630371
+Triptolide	1.7637	0.39855932
+"(1E)-1,7-bis(4-hydroxyphenyl)hept-1-en-3-one"	1.7887	0.599306625
+Phenyl-beta-glucopyranoside	1.8025	3.148099859
+Bestatin	1.8108	1.143863459
+curvularin	1.8985	0.645142761
+Prostaglandin F1alpha	1.9909	0.594107486
+beta-Estradiol	2.0693	4.896025331
+"icos-19-ene-1,2,4-triol"	2.1333	1.579367742
+trans-Petroselinic Acid	2.1438	0.267348957
+Pentadecanoic acid	2.1953	2.638820098
+GLYCOCHENODEOXYCHOLIC ACID	2.2181	0.646487683
+3-Methylxanthine	2.249	0.238425451
+Malformin A2	2.3107	0.534379244
+Tridecylic acid	2.3248	1.321035719
+17alpha-Hydroxyprogesterone	2.3312	0.539478007
+N-acetyltyramine	2.3555	0.676912984
+S-Adenosylhomocysteine	2.3589	0.497764121
+3Alpha-Hydroxy-3-Deoxyangolensic Acid Methyl Ester	2.3944	0.562059277
+"4-methoxy-6-(prop-2-en-1-yl)-2H-1,3-benzodioxole"	2.466	1.106548956
+L-(+)-Tartaric acid	2.633	0.253942129
+Kawain	2.6451	0.585260566
+FAHFA 36:2	2.7904	0.33034846
+lamalbid	2.8001	1.350052109
+beta-Estradiol-17beta-glucuronide	3.1413	0.496114028
+"[1-(3,5-dihydroxyphenyl)-12-hydroxytridecan-2-yl] acetate"	3.2016	1.493711492
+Cholest-4-en-3-one	3.3418	1.859806321
+"4'-Hydroxy-5,7-dimethoxyflavanone"	3.4663	2.575771929
+Biliverdin	3.692	0.645699438
+Deacetylgedunin	3.8654	1.362760512
+Heptadecanoic acid	3.9989	3.183897962
+alpha-TOCHOPHERYL ACETATE	4.7105	1.859806321
+"(2E,4E)-N-[2-(4-hydroxyphenyl)ethyl]dodeca-2,4-dienamide"	4.7747	4.896025331
