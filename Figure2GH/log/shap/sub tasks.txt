@@ -1,0 +1,87 @@
+问题一：
+需要确定数据集。发布了几次任务每次的数据集特征不同，根据哪次数据集或哪次任务的结果进行分析。
+
+只用后面这些  如果前面的有重要的可以用前面的
+
+问题二：
+针对哪些任务进行分析。开始的话，我们有回归、二分类、多分类，这几次沟通老师更关注血脂的回归任务，后来我们又提出了9个任务，咱们针对哪些任务来分析一下。
+
+目前我们想把代码结果部分先确定下来，然后进行文章部分的完善。实验流程没有问题，结果的分析希望老师给一些建议。
+
+
+
+前4/5个是一件事， 微生物or代谢 预测血脂    。 关联矩阵，找到特别明显的关联性。重点是第一个问题
+就当做数据，抛开背景
+
+摘要 introduction（*） model（画图） 自己的其他工作(其他的模型） 参数的的调整余地
+
+节食和不节食带来的影响
+
+-----------------------------------------
+1. 仅使用“blood_fat_meta.csv”，不用其它数据；
+
+2. 字段解释，
+ID：小鼠ID
+CHO TG HDL LDL APOB：血脂指标
+diet：是否高脂饮食，N否，H是
+interventions：控制方法，ctl，mlk，fat，whp，cas，ltf
+bodyweight：体重
+OTUs chao1 goods_coverage observed_species PD_whole_tree shannon simpson：菌群的alpha多样性
+g__xxxx：菌群
+meta_xxxx：代谢产物
+---
+
+3. 探索问题
+血脂和菌群有什么关系？
+task1：g__xxxx 预测 CHO TG HDL LDL APOB 
+
+血脂和代谢产物有什么关系？
+task2：使用meta_xxxx 预测 CHO TG HDL LDL APOB
+
+血脂和（菌群+代谢产物）有什么关系？
+task3：使用g__xxxx和meta_xxxx 预测 CHO TG HDL LDL APOB
+
+血脂和综合检测指标有什么关系？
+task4：使用diet,interventions,bodyweight,alpha多样性,g__xxxx和meta_xxxx，预测 CHO TG HDL LDL APOB
+
+
+------------------离散化
+
+
+菌群和代谢产物有什么关系？（前提，代谢产物与菌群有密切关系，但不都是由菌群产生，人体也可以）
+task5：计算g__xxxx和meta_xxxx的spearman系数
+# todo ans:这个太多了 我们选出前几名？
+
+不同的控制下（diet，interventions），血脂是否有明显差异？
+
+task6：     diet：N（原假设）和H（备选假设），T检验或？
+# todo ans:在以 是否节食为对照组的情况下
+    CHO HDL LDL 有明显变化 P值远小于0.05
+
+
+
+task7：interventions：
+ctl（原假设）和其他（备选假设），T检验或？
+*  （原假设）和其他（备选假设），T检验或？
+#   todo ans:仅考虑不同影响造成的显著性上升/下降的影响 P<0.05
+        若不控制 非control
+        mlk让血脂的5个指标中的4个造成了上升
+        fat让其中3上升
+        whp和ltf让5个中的2个造成了影响。其中WHP让TG下降 其余皆为上升
+        即：
+        在控制的情况下 mlk可以让血脂4个指标的明显低于非控制的对照组
+
+task8：diet和interventions组合情况：不列举了。
+# todo ans:
+    在节食的情况下，mlk fat whp会造成血脂的指标升高，
+    其中出现偶然情况，whp让TG显著下降。
+    而在不节食的情况下，主要是mlk让血脂升高。
+
+
+血脂和alpha多样性，是否有关联？
+    task9：计算alpha多样性和CHO TG HDL LDL APOB的相关性，spearman系数？
+# todo ans:代谢 菌群 内部相关高 两者之间无明显高相关性。无论使用哪种相关度系数都是如此。
+    除了 goods_coverage 在交叉的相关系数里最高 数值大约为0.1左右 全为正数 其余几乎为负数
+
+血脂和alpha多样性，是否有关联？
+    task10：按照bodyweight分为两组 先画图看一下集中程度（假设是正态分布） 然后根据中心分组。在低体重组里看mlk的影响

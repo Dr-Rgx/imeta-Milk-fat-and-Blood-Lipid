@@ -1,0 +1,156 @@
+2层全连接
+
+y0：Epoch[20000/20000], loss_on_train:1.275689,loss_on_tesgt:12.996926,r2_on_train:0.032269,r2_on_test:-0.697550
+y1:Epoch[20000/20000], loss_on_train:0.228915,loss_on_tesgt:2.899861,r2_on_train:-0.004043,r2_on_test:-1.220362
+y2:Epoch[30000/30000], loss_on_train:0.268590,loss_on_tesgt:4.964104,r2_on_train:-0.019007,r2_on_test:-1.925508
+y3:Epoch[30000/30000], loss_on_train:0.073621,loss_on_tesgt:1.595412,r2_on_train:-0.010171,r2_on_test:-1.046519
+y4:Epoch[30000/30000], loss_on_train:0.046263,loss_on_tesgt:1.623865,r2_on_train:-0.006360,r2_on_test:-0.328241
+
+8层全连接
+
+now analysis on  0
+ using gpu..
+Epoch[200/5000], loss_on_train:1.337403,loss_on_tesgt:11.848572,r2_on_train:-0.047507,r2_on_test:-1.053246
+Epoch[400/5000], loss_on_train:1.303931,loss_on_tesgt:11.953922,r2_on_train:-0.020571,r2_on_test:-0.907441
+Epoch[600/5000], loss_on_train:1.289554,loss_on_tesgt:12.251112,r2_on_train:-0.002860,r2_on_test:-0.831759
+Epoch[800/5000], loss_on_train:1.290805,loss_on_tesgt:12.089909,r2_on_train:0.009256,r2_on_test:-0.765752
+Epoch[1000/5000], loss_on_train:1.277525,loss_on_tesgt:12.649837,r2_on_train:0.007550,r2_on_test:-0.756115
+Epoch[1200/5000], loss_on_train:1.275791,loss_on_tesgt:12.794431,r2_on_train:0.004983,r2_on_test:-0.755338
+Epoch[1400/5000], loss_on_train:1.275009,loss_on_tesgt:12.934486,r2_on_train:0.000666,r2_on_test:-0.759929
+Epoch[1600/5000], loss_on_train:1.275528,loss_on_tesgt:12.801443,r2_on_train:0.005234,r2_on_test:-0.745142
+Epoch[1800/5000], loss_on_train:1.274773,loss_on_tesgt:12.985002,r2_on_train:-0.000706,r2_on_test:-0.760120
+Epoch[2000/5000], loss_on_train:1.274749,loss_on_tesgt:13.026433,r2_on_train:-0.001977,r2_on_test:-0.763039
+Epoch[2200/5000], loss_on_train:1.274718,loss_on_tesgt:13.026963,r2_on_train:-0.001865,r2_on_test:-0.761191
+Epoch[2400/5000], loss_on_train:1.274680,loss_on_tesgt:12.998443,r2_on_train:-0.000639,r2_on_test:-0.757065
+Epoch[2600/5000], loss_on_train:1.274677,loss_on_tesgt:12.972914,r2_on_train:0.000421,r2_on_test:-0.753758
+Epoch[2800/5000], loss_on_train:1.274654,loss_on_tesgt:12.994630,r2_on_train:-0.000256,r2_on_test:-0.756593
+Epoch[3000/5000], loss_on_train:1.274652,loss_on_tesgt:12.983500,r2_on_train:0.000209,r2_on_test:-0.756862
+Epoch[3200/5000], loss_on_train:1.274647,loss_on_tesgt:12.983643,r2_on_train:0.000319,r2_on_test:-0.756690
+Epoch[3400/5000], loss_on_train:1.274643,loss_on_tesgt:12.991956,r2_on_train:-0.000002,r2_on_test:-0.761184
+Epoch[3600/5000], loss_on_train:1.274644,loss_on_tesgt:12.989577,r2_on_train:-0.000352,r2_on_test:-0.761502
+Epoch[3800/5000], loss_on_train:1.274656,loss_on_tesgt:12.970225,r2_on_train:-0.000057,r2_on_test:-0.761570
+Epoch[4000/5000], loss_on_train:1.274645,loss_on_tesgt:13.003566,r2_on_train:0.000699,r2_on_test:-0.759384
+Epoch[4200/5000], loss_on_train:1.274644,loss_on_tesgt:13.000263,r2_on_train:0.000448,r2_on_test:-0.759844
+Epoch[4400/5000], loss_on_train:1.274643,loss_on_tesgt:12.998193,r2_on_train:0.000333,r2_on_test:-0.759894
+Epoch[4600/5000], loss_on_train:1.274643,loss_on_tesgt:12.990690,r2_on_train:-0.000126,r2_on_test:-0.761783
+Epoch[4800/5000], loss_on_train:1.274643,loss_on_tesgt:12.998518,r2_on_train:0.000277,r2_on_test:-0.760559
+Epoch[5000/5000], loss_on_train:1.274643,loss_on_tesgt:12.997927,r2_on_train:-0.000056,r2_on_test:-0.760635
+now returning  1
+(93, 4015)
+now analysis on  1
+ using gpu..
+Epoch[200/5000], loss_on_train:0.233270,loss_on_tesgt:3.000768,r2_on_train:-0.027255,r2_on_test:-1.003115
+Epoch[400/5000], loss_on_train:0.230792,loss_on_tesgt:2.980181,r2_on_train:-0.015982,r2_on_test:-0.876242
+Epoch[600/5000], loss_on_train:0.229658,loss_on_tesgt:2.964278,r2_on_train:-0.010322,r2_on_test:-0.804356
+Epoch[800/5000], loss_on_train:0.229665,loss_on_tesgt:2.797191,r2_on_train:-0.006361,r2_on_test:-0.528379
+Epoch[1000/5000], loss_on_train:0.228765,loss_on_tesgt:2.872911,r2_on_train:-0.002543,r2_on_test:-0.617912
+Epoch[1200/5000], loss_on_train:0.228702,loss_on_tesgt:2.885061,r2_on_train:-0.002049,r2_on_test:-0.625441
+Epoch[1400/5000], loss_on_train:0.228683,loss_on_tesgt:2.893035,r2_on_train:-0.001917,r2_on_test:-0.634572
+Epoch[1600/5000], loss_on_train:0.228675,loss_on_tesgt:2.895364,r2_on_train:-0.001770,r2_on_test:-0.632441
+Epoch[1800/5000], loss_on_train:0.228681,loss_on_tesgt:2.901166,r2_on_train:-0.001657,r2_on_test:-0.639536
+Epoch[2000/5000], loss_on_train:0.228654,loss_on_tesgt:2.889091,r2_on_train:-0.001063,r2_on_test:-0.617174
+Epoch[2200/5000], loss_on_train:0.228654,loss_on_tesgt:2.894210,r2_on_train:-0.000919,r2_on_test:-0.621310
+Epoch[2400/5000], loss_on_train:0.228648,loss_on_tesgt:2.884963,r2_on_train:-0.000626,r2_on_test:-0.605289
+Epoch[2600/5000], loss_on_train:0.228644,loss_on_tesgt:2.888501,r2_on_train:-0.000510,r2_on_test:-0.609242
+Epoch[2800/5000], loss_on_train:0.228643,loss_on_tesgt:2.890369,r2_on_train:-0.000536,r2_on_test:-0.610770
+Epoch[3000/5000], loss_on_train:0.228643,loss_on_tesgt:2.890567,r2_on_train:-0.000270,r2_on_test:-0.609759
+Epoch[3200/5000], loss_on_train:0.228642,loss_on_tesgt:2.889595,r2_on_train:0.000088,r2_on_test:-0.608350
+Epoch[3400/5000], loss_on_train:0.228642,loss_on_tesgt:2.889422,r2_on_train:-0.000034,r2_on_test:-0.608033
+Epoch[3600/5000], loss_on_train:0.228643,loss_on_tesgt:2.891053,r2_on_train:-0.000118,r2_on_test:-0.609677
+Epoch[3800/5000], loss_on_train:0.228642,loss_on_tesgt:2.889446,r2_on_train:0.000092,r2_on_test:-0.607742
+Epoch[4000/5000], loss_on_train:0.228642,loss_on_tesgt:2.889989,r2_on_train:-0.000075,r2_on_test:-0.607794
+Epoch[4200/5000], loss_on_train:0.228642,loss_on_tesgt:2.887150,r2_on_train:0.000019,r2_on_test:-0.602944
+Epoch[4400/5000], loss_on_train:0.228642,loss_on_tesgt:2.889243,r2_on_train:0.000065,r2_on_test:-0.606334
+Epoch[4600/5000], loss_on_train:0.228642,loss_on_tesgt:2.887859,r2_on_train:-0.000251,r2_on_test:-0.604059
+Epoch[4800/5000], loss_on_train:0.228642,loss_on_tesgt:2.889179,r2_on_train:0.000317,r2_on_test:-0.605590
+Epoch[5000/5000], loss_on_train:0.228642,loss_on_tesgt:2.887704,r2_on_train:-0.000103,r2_on_test:-0.603899
+now returning  2
+(93, 4015)
+now analysis on  2
+ using gpu..
+Epoch[200/5000], loss_on_train:0.304970,loss_on_tesgt:5.537938,r2_on_train:-0.120316,r2_on_test:-2.150277
+Epoch[400/5000], loss_on_train:0.287404,loss_on_tesgt:4.380361,r2_on_train:-0.099823,r2_on_test:-1.415634
+Epoch[600/5000], loss_on_train:0.273696,loss_on_tesgt:5.205799,r2_on_train:-0.032983,r2_on_test:-1.533422
+Epoch[800/5000], loss_on_train:0.271587,loss_on_tesgt:5.155022,r2_on_train:-0.020843,r2_on_test:-1.491232
+Epoch[1000/5000], loss_on_train:0.269010,loss_on_tesgt:5.008716,r2_on_train:-0.007295,r2_on_test:-1.418273
+Epoch[1200/5000], loss_on_train:0.269148,loss_on_tesgt:5.039037,r2_on_train:-0.005689,r2_on_test:-1.427788
+Epoch[1400/5000], loss_on_train:0.268551,loss_on_tesgt:4.952734,r2_on_train:-0.001676,r2_on_test:-1.391531
+Epoch[1600/5000], loss_on_train:0.268623,loss_on_tesgt:4.988883,r2_on_train:-0.001641,r2_on_test:-1.398110
+Epoch[1800/5000], loss_on_train:0.268517,loss_on_tesgt:4.915645,r2_on_train:0.000131,r2_on_test:-1.362623
+Epoch[2000/5000], loss_on_train:0.268469,loss_on_tesgt:4.927968,r2_on_train:0.000327,r2_on_test:-1.364033
+Epoch[2200/5000], loss_on_train:0.268450,loss_on_tesgt:4.951380,r2_on_train:0.000023,r2_on_test:-1.371297
+Epoch[2400/5000], loss_on_train:0.268441,loss_on_tesgt:4.935567,r2_on_train:0.000451,r2_on_test:-1.362396
+Epoch[2600/5000], loss_on_train:0.268434,loss_on_tesgt:4.939471,r2_on_train:0.000068,r2_on_test:-1.361485
+Epoch[2800/5000], loss_on_train:0.268429,loss_on_tesgt:4.942217,r2_on_train:0.000080,r2_on_test:-1.361749
+Epoch[3000/5000], loss_on_train:0.268428,loss_on_tesgt:4.945503,r2_on_train:0.000012,r2_on_test:-1.360249
+Epoch[3200/5000], loss_on_train:0.268427,loss_on_tesgt:4.944768,r2_on_train:0.000025,r2_on_test:-1.359322
+Epoch[3400/5000], loss_on_train:0.268426,loss_on_tesgt:4.943454,r2_on_train:-0.000072,r2_on_test:-1.358579
+Epoch[3600/5000], loss_on_train:0.268426,loss_on_tesgt:4.941308,r2_on_train:0.000260,r2_on_test:-1.357654
+Epoch[3800/5000], loss_on_train:0.268426,loss_on_tesgt:4.941636,r2_on_train:0.000118,r2_on_test:-1.358123
+Epoch[4000/5000], loss_on_train:0.268426,loss_on_tesgt:4.942420,r2_on_train:0.000107,r2_on_test:-1.357918
+Epoch[4200/5000], loss_on_train:0.268426,loss_on_tesgt:4.943473,r2_on_train:-0.000080,r2_on_test:-1.359757
+Epoch[4400/5000], loss_on_train:0.268426,loss_on_tesgt:4.944899,r2_on_train:0.000242,r2_on_test:-1.357936
+Epoch[4600/5000], loss_on_train:0.268426,loss_on_tesgt:4.943813,r2_on_train:0.000042,r2_on_test:-1.358048
+Epoch[4800/5000], loss_on_train:0.268426,loss_on_tesgt:4.943049,r2_on_train:0.000156,r2_on_test:-1.356992
+Epoch[5000/5000], loss_on_train:0.268426,loss_on_tesgt:4.942334,r2_on_train:0.000109,r2_on_test:-1.358465
+now returning  3
+(93, 4015)
+now analysis on  3
+ using gpu..
+Epoch[200/5000], loss_on_train:0.075426,loss_on_tesgt:1.557751,r2_on_train:-0.020304,r2_on_test:-0.648803
+Epoch[400/5000], loss_on_train:0.074252,loss_on_tesgt:1.609428,r2_on_train:-0.011111,r2_on_test:-0.554762
+Epoch[600/5000], loss_on_train:0.074375,loss_on_tesgt:1.630276,r2_on_train:-0.010173,r2_on_test:-0.549967
+Epoch[800/5000], loss_on_train:0.074035,loss_on_tesgt:1.624039,r2_on_train:-0.004680,r2_on_test:-0.514472
+Epoch[1000/5000], loss_on_train:0.073882,loss_on_tesgt:1.621218,r2_on_train:-0.002460,r2_on_test:-0.504444
+Epoch[1200/5000], loss_on_train:0.073806,loss_on_tesgt:1.619059,r2_on_train:-0.000740,r2_on_test:-0.495370
+Epoch[1400/5000], loss_on_train:0.073623,loss_on_tesgt:1.591748,r2_on_train:0.000749,r2_on_test:-0.478411
+Epoch[1600/5000], loss_on_train:0.073609,loss_on_tesgt:1.595526,r2_on_train:0.000799,r2_on_test:-0.477899
+Epoch[1800/5000], loss_on_train:0.073612,loss_on_tesgt:1.592344,r2_on_train:0.000214,r2_on_test:-0.477385
+Epoch[2000/5000], loss_on_train:0.073605,loss_on_tesgt:1.598512,r2_on_train:0.000297,r2_on_test:-0.480000
+Epoch[2200/5000], loss_on_train:0.073606,loss_on_tesgt:1.599136,r2_on_train:0.000158,r2_on_test:-0.480610
+Epoch[2400/5000], loss_on_train:0.073604,loss_on_tesgt:1.595253,r2_on_train:0.000018,r2_on_test:-0.479620
+Epoch[2600/5000], loss_on_train:0.073603,loss_on_tesgt:1.596441,r2_on_train:0.000129,r2_on_test:-0.480510
+Epoch[2800/5000], loss_on_train:0.073603,loss_on_tesgt:1.596703,r2_on_train:0.000014,r2_on_test:-0.480752
+Epoch[3000/5000], loss_on_train:0.073603,loss_on_tesgt:1.596483,r2_on_train:-0.000035,r2_on_test:-0.481082
+Epoch[3200/5000], loss_on_train:0.073603,loss_on_tesgt:1.596690,r2_on_train:0.000064,r2_on_test:-0.480941
+Epoch[3400/5000], loss_on_train:0.073603,loss_on_tesgt:1.596508,r2_on_train:-0.000019,r2_on_test:-0.481031
+Epoch[3600/5000], loss_on_train:0.073603,loss_on_tesgt:1.597184,r2_on_train:-0.000053,r2_on_test:-0.481894
+Epoch[3800/5000], loss_on_train:0.073603,loss_on_tesgt:1.596667,r2_on_train:0.000009,r2_on_test:-0.481292
+Epoch[4000/5000], loss_on_train:0.073603,loss_on_tesgt:1.596552,r2_on_train:0.000218,r2_on_test:-0.480819
+Epoch[4200/5000], loss_on_train:0.073603,loss_on_tesgt:1.597017,r2_on_train:0.000144,r2_on_test:-0.481628
+Epoch[4400/5000], loss_on_train:0.073603,loss_on_tesgt:1.596641,r2_on_train:-0.000031,r2_on_test:-0.481341
+Epoch[4600/5000], loss_on_train:0.073603,loss_on_tesgt:1.596947,r2_on_train:0.000168,r2_on_test:-0.482005
+Epoch[4800/5000], loss_on_train:0.073603,loss_on_tesgt:1.597001,r2_on_train:0.000119,r2_on_test:-0.481885
+Epoch[5000/5000], loss_on_train:0.073603,loss_on_tesgt:1.596780,r2_on_train:0.000026,r2_on_test:-0.481769
+now returning  4
+(93, 4015)
+now analysis on  4
+ using gpu..
+Epoch[200/5000], loss_on_train:0.049974,loss_on_tesgt:1.535852,r2_on_train:-0.105663,r2_on_test:-0.464079
+Epoch[400/5000], loss_on_train:0.047670,loss_on_tesgt:1.573957,r2_on_train:-0.027253,r2_on_test:-0.413126
+Epoch[600/5000], loss_on_train:0.046332,loss_on_tesgt:1.651749,r2_on_train:0.010674,r2_on_test:-0.516882
+Epoch[800/5000], loss_on_train:0.046236,loss_on_tesgt:1.633012,r2_on_train:0.009641,r2_on_test:-0.458754
+Epoch[1000/5000], loss_on_train:0.046207,loss_on_tesgt:1.635412,r2_on_train:0.007494,r2_on_test:-0.457633
+Epoch[1200/5000], loss_on_train:0.046196,loss_on_tesgt:1.642340,r2_on_train:0.005613,r2_on_test:-0.465937
+Epoch[1400/5000], loss_on_train:0.046189,loss_on_tesgt:1.641751,r2_on_train:0.004034,r2_on_test:-0.460404
+Epoch[1600/5000], loss_on_train:0.046196,loss_on_tesgt:1.634355,r2_on_train:0.003260,r2_on_test:-0.440291
+Epoch[1800/5000], loss_on_train:0.046180,loss_on_tesgt:1.640167,r2_on_train:0.002620,r2_on_test:-0.448824
+Epoch[2000/5000], loss_on_train:0.046179,loss_on_tesgt:1.640441,r2_on_train:0.002020,r2_on_test:-0.447270
+Epoch[2200/5000], loss_on_train:0.046178,loss_on_tesgt:1.639245,r2_on_train:0.001594,r2_on_test:-0.441644
+Epoch[2400/5000], loss_on_train:0.046178,loss_on_tesgt:1.640307,r2_on_train:0.001507,r2_on_test:-0.442890
+Epoch[2600/5000], loss_on_train:0.046177,loss_on_tesgt:1.639138,r2_on_train:0.001210,r2_on_test:-0.439733
+Epoch[2800/5000], loss_on_train:0.046177,loss_on_tesgt:1.639733,r2_on_train:0.001009,r2_on_test:-0.439946
+Epoch[3000/5000], loss_on_train:0.046176,loss_on_tesgt:1.639101,r2_on_train:0.000809,r2_on_test:-0.437108
+Epoch[3200/5000], loss_on_train:0.046176,loss_on_tesgt:1.639115,r2_on_train:0.000595,r2_on_test:-0.437481
+Epoch[3400/5000], loss_on_train:0.046176,loss_on_tesgt:1.639216,r2_on_train:0.000488,r2_on_test:-0.436307
+Epoch[3600/5000], loss_on_train:0.046176,loss_on_tesgt:1.639432,r2_on_train:0.000277,r2_on_test:-0.436734
+Epoch[3800/5000], loss_on_train:0.046176,loss_on_tesgt:1.639357,r2_on_train:0.000188,r2_on_test:-0.436960
+Epoch[4000/5000], loss_on_train:0.046176,loss_on_tesgt:1.639293,r2_on_train:0.000323,r2_on_test:-0.437392
+Epoch[4200/5000], loss_on_train:0.046176,loss_on_tesgt:1.639467,r2_on_train:0.000158,r2_on_test:-0.437418
+Epoch[4400/5000], loss_on_train:0.046176,loss_on_tesgt:1.639300,r2_on_train:0.000128,r2_on_test:-0.436969
+Epoch[4600/5000], loss_on_train:0.046176,loss_on_tesgt:1.639512,r2_on_train:-0.000074,r2_on_test:-0.437151
+Epoch[4800/5000], loss_on_train:0.046176,loss_on_tesgt:1.639245,r2_on_train:0.000039,r2_on_test:-0.436302
+Epoch[5000/5000], loss_on_train:0.046176,loss_on_tesgt:1.639487,r2_on_train:-0.000071,r2_on_test:-0.436554
+
+
+任务2 3 均在分类全连接上训练集达到了1.0

@@ -1,0 +1,16 @@
+            CHO          TG         HDL          LDL       APOB
+Mlk  0.00247842    0.439893  0.00248748  0.000241532  0.0186151
+Fat   0.0145217    0.968754  0.00681084   0.00729692   0.226772
+Whp    0.241294  0.00381967   0.0395801     0.109512   0.660554
+Cas    0.227935    0.408377     0.28539     0.715825   0.307499
+Ltf    0.043111    0.612328    0.069836     0.191803   0.730369
+
+        CHO      TG     HDL     LDL    APOB
+Mlk  higher  higher  higher  higher  higher
+Fat  higher   lower  higher  higher  higher
+Whp  higher   lower  higher  higher   lower
+Cas  higher   lower  higher  higher  higher
+Ltf  higher   lower  higher  higher   lower
+
+
+P < 0.05 的可信度比较高，然后产生的影响为升高和下降就是下面的矩阵给出的结果

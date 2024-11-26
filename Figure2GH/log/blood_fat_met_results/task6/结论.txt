@@ -1,0 +1,14 @@
+now analysis on: CHO
+Ttest_relResult(statistic=-8.891211247713914, pvalue=1.4889572920644562e-11)
+now analysis on: TG
+Ttest_relResult(statistic=-1.2244644388526749, pvalue=0.22701107239019389)
+now analysis on: HDL
+Ttest_relResult(statistic=-4.714183675987644, pvalue=2.2782569659995675e-05)
+now analysis on: LDL
+Ttest_relResult(statistic=-8.224243079859209, pvalue=1.3844639023175307e-10)
+now analysis on: APOB
+Ttest_relResult(statistic=-1.5791437183357806, pvalue=0.12115585157940167)
+
+pvalue 0.05 为最显著 0.1为比较显著 其中CHO HDL LDL 非常显著，ABOP勉强 TG P值过大
+
+同时进行了可视化

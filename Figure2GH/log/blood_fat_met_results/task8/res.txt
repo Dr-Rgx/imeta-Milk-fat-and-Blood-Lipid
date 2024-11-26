@@ -1,0 +1,30 @@
+now the diet is : H
+           CHO        TG        HDL       LDL       APOB
+Mlk  0.0385982  0.158763  0.0646064  0.130529  0.0405274
+Fat  0.0881718  0.244218  0.0626131  0.126649   0.373444
+Whp  0.0878877  0.884727   0.215017  0.186242   0.311686
+Cas    0.32292  0.487036   0.309189  0.672062   0.215563
+Ltf    0.33654  0.350552   0.450394  0.738822   0.963241
+        CHO      TG     HDL     LDL    APOB
+Mlk  higher  higher  higher  higher  higher
+Fat  higher  higher  higher  higher  higher
+Whp  higher   lower  higher  higher  higher
+Cas  higher  higher  higher  higher  higher
+Ltf  higher  higher  higher  higher   lower
+
+
+
+now the diet is : N
+           CHO          TG        HDL         LDL       APOB
+Mlk  0.0143415    0.726931  0.0134441  0.00558347  0.0315454
+Fat  0.0962161    0.713241  0.0435743   0.0258798   0.170455
+Whp   0.197428  0.00191559  0.0188099   0.0675225   0.838849
+Cas   0.299388    0.576256   0.599677    0.964054   0.315638
+Ltf   0.326102    0.968457   0.237128    0.367069   0.711589
+
+        CHO      TG     HDL     LDL    APOB
+Mlk  higher  higher  higher  higher  higher
+Fat  higher   lower  higher  higher  higher
+Whp  higher   lower  higher  higher   lower
+Cas   lower   lower   lower   lower  higher
+Ltf  higher   lower  higher  higher  higher
