@@ -1,0 +1,42 @@
+
+1. 仅使用“blood_fat_meta.csv”，不用其它数据；
+
+2. 字段解释，
+ID：小鼠ID
+CHO	TG	HDL	LDL	APOB：血脂指标
+diet：是否高脂饮食，N否，H是
+interventions：控制方法，ctl，mlk，fat，whp，cas，ltf
+bodyweight：体重
+OTUs	chao1	goods_coverage	observed_species	PD_whole_tree	shannon	simpson：菌群的alpha多样性
+g__xxxx：菌群
+meta_xxxx：代谢产物
+
+3. 探索问题
+血脂和菌群有什么关系？
+task1：g__xxxx 预测 CHO	TG	HDL	LDL	APOB 
+
+血脂和代谢产物有什么关系？
+task2：使用meta_xxxx 预测 CHO	TG	HDL	LDL	APOB
+
+血脂和（菌群+代谢产物）有什么关系？
+task3：使用g__xxxx和meta_xxxx 预测 CHO	TG	HDL	LDL	APOB
+
+血脂和综合检测指标有什么关系？
+task4：使用diet,interventions,bodyweight,alpha多样性,g__xxxx和meta_xxxx，预测 CHO	TG	HDL	LDL	APOB
+
+菌群和代谢产物有什么关系？（前提，代谢产物与菌群有密切关系，但不都是由菌群产生，人体也可以）
+task5：计算g__xxxx和meta_xxxx的spearman系数
+
+不同的控制下（diet，interventions），血脂是否有明显差异？
+task6：diet：N（原假设）和H（备选假设），T检验或？
+task7：interventions：
+ctl（原假设）和其他（备选假设），T检验或？
+mlk（原假设）和其他（备选假设），T检验或？
+fat（原假设）和其他（备选假设），T检验或？
+whp（原假设）和其他（备选假设），T检验或？
+cas（原假设）和其他（备选假设），T检验或？
+ltf（原假设）和其他（备选假设），T检验或？
+task8：diet和interventions组合情况：不列举了。
+
+血脂和alpha多样性，是否有关联？
+task9：计算alpha多样性和CHO	TG	HDL	LDL	APOB的相关性，spearman系数？

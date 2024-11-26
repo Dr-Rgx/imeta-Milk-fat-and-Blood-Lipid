@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7d329415-0fcb-486a-86b9-0fd519e1c648" name="mda" url="">
+        <fileTransfer rootFolder="/home/luqy21" accessType="SFTP" host="202.201.244.10" port="50030" sshConfigId="3e876e32-074c-4736-90d2-b2dd883bf2ed" sshConfig="luqy21@202.201.244.10:50030 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

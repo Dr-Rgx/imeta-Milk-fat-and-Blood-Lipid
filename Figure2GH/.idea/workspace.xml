@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab2241aa-807e-49ff-a218-8c7f9716149b" name="Default Changelist" comment="使用自动机器学习刷比之前高很多的性能，详见readme">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/medical-data-analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/medical-data-analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_ML_for_reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_ML_for_reg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contol_mult.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_bak.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do_Ttest.py" beforeDir="false" afterPath="$PROJECT_DIR$/do_Ttest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/autogluon_res/draw_info_each_stage.py" beforeDir="false" afterPath="$PROJECT_DIR$/log/autogluon_res/draw_info_each_stage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/blood_fat_met_results/task6/APOB.png" beforeDir="false" afterPath="$PROJECT_DIR$/log/blood_fat_met_results/task6/APOB.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/blood_fat_met_results/task6/CHO.png" beforeDir="false" afterPath="$PROJECT_DIR$/log/blood_fat_met_results/task6/CHO.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/blood_fat_met_results/task6/HDL.png" beforeDir="false" afterPath="$PROJECT_DIR$/log/blood_fat_met_results/task6/HDL.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/blood_fat_met_results/task6/LDL.png" beforeDir="false" afterPath="$PROJECT_DIR$/log/blood_fat_met_results/task6/LDL.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/blood_fat_met_results/task6/TG.png" beforeDir="false" afterPath="$PROJECT_DIR$/log/blood_fat_met_results/task6/TG.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task1/0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task1/0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task1/1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task1/1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task1/2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task1/2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task1/3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task1/3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task1/4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task1/4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task2/0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task2/0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task2/1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task2/1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task2/2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task2/2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task2/3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task2/3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task2/4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task2/4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task3/0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task3/0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task3/1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task3/1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task3/2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task3/2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task3/3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task3/3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task3/4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task3/4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task4/0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task4/0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task4/1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task4/1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task4/2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task4/2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task4/3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task4/3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/shap/task4/4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/log/shap/task4/4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models_for_reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/models_for_reg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnModel_for_reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnModel_for_reg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_for_reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_for_reg.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="陆秋佚" />
+        <option value="luqiuyi" />
+        <option value="luqiuyi &lt;1056377463@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ppt" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.1/python_stubs/908808829/posix.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.1/remote_sources/-606164744/-1680737249/autogluon/tabular/predictor/predictor.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.1/remote_sources/-606164744/-1680737249/matplotlib/pyplot.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.1/remote_sources/-606164744/-1680737249/shap/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.1/remote_sources/-606164744/-1936641413/shutil.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/genericpath.pyi" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="1tOePslLFdkelmIYwePbwFJXRjR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.do_Ttest.executor": "Run",
+    "Python.models_for_reg.executor": "Debug",
+    "Python.nnModel_for_clf.executor": "Debug",
+    "Python.nnModel_for_reg.executor": "Debug",
+    "Python.train_for_reg_simple.executor": "Run",
+    "Python.try_on_models.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/coding/medical-data-analysis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.debugger.dataview.coloredbydefault": "false",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coding\medical-data-analysis" />
+      <recent name="D:\coding\medical-data-analysis\new_count\p2" />
+      <recent name="D:\coding\medical-data-analysis\data" />
+      <recent name="D:\coding\medical-data-analysis\other\to_wav" />
+      <recent name="D:\coding\medical-data-analysis\other" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coding\medical-data-analysis\log" />
+      <recent name="D:\coding\medical-data-analysis\log\shap" />
+      <recent name="D:\coding\medical-data-analysis\log\blood_fat_met_results" />
+      <recent name="D:\coding\medical-data-analysis\log\pred_true" />
+      <recent name="D:\coding\medical-data-analysis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.do_Ttest">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="medical-data-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="do_Ttest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical-data-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do_Ttest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models_for_reg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical-data-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models_for_reg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nnModel_for_reg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical-data-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nnModel_for_reg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_for_reg_simple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical-data-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_for_reg_simple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try_on_models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical-data-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try_on_models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.do_Ttest" />
+      <item itemvalue="Python.train_for_reg_simple" />
+      <item itemvalue="Python.models_for_reg" />
+      <item itemvalue="Python.try_on_models" />
+      <item itemvalue="Python.nnModel_for_reg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.do_Ttest" />
+        <item itemvalue="Python.train_for_reg_simple" />
+        <item itemvalue="Python.try_on_models" />
+        <item itemvalue="Python.models_for_reg" />
+        <item itemvalue="Python.nnModel_for_reg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab2241aa-807e-49ff-a218-8c7f9716149b" name="Default Changelist" comment="" />
+      <created>1622644542183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622644542183</updated>
+      <workItem from="1622644543630" duration="6465000" />
+      <workItem from="1622733965090" duration="82000" />
+      <workItem from="1622771706611" duration="15165000" />
+      <workItem from="1622810956570" duration="4693000" />
+      <workItem from="1622946182358" duration="9137000" />
+      <workItem from="1622989071027" duration="380000" />
+      <workItem from="1623027680464" duration="821000" />
+      <workItem from="1623034442193" duration="8369000" />
+      <workItem from="1623117064277" duration="1506000" />
+      <workItem from="1623142697760" duration="1802000" />
+      <workItem from="1623164371503" duration="1436000" />
+      <workItem from="1623201044400" duration="874000" />
+      <workItem from="1623382370324" duration="15673000" />
+      <workItem from="1623720232022" duration="23488000" />
+      <workItem from="1623765748806" duration="4979000" />
+      <workItem from="1623805565266" duration="7748000" />
+      <workItem from="1623826290237" duration="1575000" />
+      <workItem from="1623828448190" duration="637000" />
+      <workItem from="1623829300226" duration="7081000" />
+      <workItem from="1623857692682" duration="869000" />
+      <workItem from="1623892934768" duration="771000" />
+      <workItem from="1624178266722" duration="3872000" />
+      <workItem from="1624202128479" duration="1653000" />
+      <workItem from="1624263310662" duration="3043000" />
+      <workItem from="1624524922922" duration="342000" />
+      <workItem from="1624613283993" duration="6101000" />
+      <workItem from="1624717853335" duration="1838000" />
+      <workItem from="1624843295046" duration="1319000" />
+      <workItem from="1624867384328" duration="2017000" />
+      <workItem from="1626359015958" duration="101000" />
+      <workItem from="1626509648107" duration="739000" />
+      <workItem from="1626612837520" duration="3983000" />
+      <workItem from="1626684895888" duration="3140000" />
+      <workItem from="1626940364172" duration="15661000" />
+      <workItem from="1627054987165" duration="1223000" />
+      <workItem from="1627111171055" duration="5444000" />
+      <workItem from="1627282606579" duration="6562000" />
+      <workItem from="1627371690814" duration="505000" />
+      <workItem from="1627372209551" duration="395000" />
+      <workItem from="1627372618538" duration="1714000" />
+      <workItem from="1627374489042" duration="71000" />
+      <workItem from="1627376024071" duration="1581000" />
+      <workItem from="1627379107513" duration="3838000" />
+      <workItem from="1627399215351" duration="239000" />
+      <workItem from="1627399623702" duration="820000" />
+      <workItem from="1627442123704" duration="6840000" />
+      <workItem from="1627460562600" duration="8245000" />
+      <workItem from="1627470161299" duration="858000" />
+      <workItem from="1627471237568" duration="67000" />
+      <workItem from="1627471335399" duration="328000" />
+      <workItem from="1627471944441" duration="1055000" />
+      <workItem from="1627484428280" duration="599000" />
+      <workItem from="1627518692033" duration="3303000" />
+      <workItem from="1628150652156" duration="302000" />
+      <workItem from="1628841882389" duration="2829000" />
+      <workItem from="1628861040934" duration="2927000" />
+      <workItem from="1628921474958" duration="7245000" />
+      <workItem from="1629007349041" duration="24298000" />
+      <workItem from="1629201127062" duration="2561000" />
+      <workItem from="1629523665088" duration="161000" />
+      <workItem from="1629542848285" duration="73000" />
+      <workItem from="1630213222308" duration="354000" />
+      <workItem from="1631288683539" duration="1593000" />
+      <workItem from="1631548868570" duration="2320000" />
+      <workItem from="1631587197011" duration="2527000" />
+      <workItem from="1631625936689" duration="89000" />
+      <workItem from="1632995166688" duration="9629000" />
+      <workItem from="1633291348642" duration="1621000" />
+      <workItem from="1633935153055" duration="15866000" />
+      <workItem from="1634204377696" duration="21193000" />
+      <workItem from="1634874132739" duration="1323000" />
+      <workItem from="1634875497180" duration="394000" />
+      <workItem from="1634875904957" duration="8242000" />
+      <workItem from="1634915166542" duration="4000" />
+      <workItem from="1634957670570" duration="4169000" />
+      <workItem from="1635006472582" duration="309000" />
+      <workItem from="1635046227117" duration="3062000" />
+      <workItem from="1635142628607" duration="2658000" />
+      <workItem from="1635507762520" duration="3531000" />
+      <workItem from="1635668071144" duration="5000" />
+      <workItem from="1637845635305" duration="28000" />
+      <workItem from="1637852754758" duration="641000" />
+      <workItem from="1637911958835" duration="656000" />
+      <workItem from="1638001768454" duration="1616000" />
+      <workItem from="1639989565119" duration="983000" />
+      <workItem from="1639990568923" duration="5883000" />
+      <workItem from="1640961226327" duration="604000" />
+      <workItem from="1643780832085" duration="102000" />
+      <workItem from="1646218268933" duration="2644000" />
+      <workItem from="1646241835468" duration="2394000" />
+      <workItem from="1646272970779" duration="290000" />
+      <workItem from="1646273286981" duration="1024000" />
+      <workItem from="1646274477567" duration="3447000" />
+      <workItem from="1646283141571" duration="1772000" />
+      <workItem from="1646285834366" duration="4881000" />
+      <workItem from="1646297978713" duration="618000" />
+      <workItem from="1646298613806" duration="4023000" />
+      <workItem from="1646303170757" duration="618000" />
+      <workItem from="1646303807903" duration="999000" />
+      <workItem from="1646305066540" duration="100000" />
+      <workItem from="1646305179216" duration="5460000" />
+      <workItem from="1646311444029" duration="251000" />
+      <workItem from="1646311708869" duration="1676000" />
+      <workItem from="1646313435496" duration="1737000" />
+      <workItem from="1646315426892" duration="4520000" />
+      <workItem from="1646326973850" duration="554000" />
+      <workItem from="1646373748542" duration="460000" />
+      <workItem from="1646379139305" duration="3808000" />
+      <workItem from="1646388601936" duration="2566000" />
+      <workItem from="1646393091942" duration="5040000" />
+      <workItem from="1646461424081" duration="4826000" />
+      <workItem from="1646472819901" duration="2020000" />
+      <workItem from="1646481328108" duration="417000" />
+      <workItem from="1646635488780" duration="4000" />
+      <workItem from="1648215520086" duration="596000" />
+      <workItem from="1648216690143" duration="595000" />
+      <workItem from="1648218048102" duration="1000" />
+      <workItem from="1649402981857" duration="5936000" />
+      <workItem from="1649411224706" duration="3197000" />
+      <workItem from="1649414485633" duration="3534000" />
+      <workItem from="1649496941585" duration="98000" />
+      <workItem from="1655388237731" duration="533000" />
+      <workItem from="1656008198649" duration="1920000" />
+      <workItem from="1656943723486" duration="1306000" />
+      <workItem from="1656952271917" duration="12409000" />
+      <workItem from="1657096307269" duration="7350000" />
+      <workItem from="1657356369861" duration="9462000" />
+      <workItem from="1657418667746" duration="15760000" />
+      <workItem from="1657446048551" duration="903000" />
+      <workItem from="1657510010076" duration="3417000" />
+      <workItem from="1657516199063" duration="4699000" />
+      <workItem from="1657531431163" duration="2244000" />
+      <workItem from="1658233742708" duration="1340000" />
+      <workItem from="1658301266954" duration="317000" />
+      <workItem from="1658306496214" duration="6997000" />
+      <workItem from="1658392116919" duration="629000" />
+      <workItem from="1658728983300" duration="8000" />
+      <workItem from="1659013796707" duration="34000" />
+      <workItem from="1659090798197" duration="230000" />
+      <workItem from="1659099524253" duration="973000" />
+      <workItem from="1659294080116" duration="3000" />
+      <workItem from="1660289807107" duration="1499000" />
+      <workItem from="1660292791539" duration="644000" />
+      <workItem from="1660480073286" duration="157000" />
+      <workItem from="1661176198721" duration="1230000" />
+      <workItem from="1662006156074" duration="3126000" />
+      <workItem from="1668672047647" duration="258000" />
+      <workItem from="1668843888417" duration="379000" />
+      <workItem from="1669005970191" duration="108000" />
+      <workItem from="1669009503614" duration="1288000" />
+      <workItem from="1669720560009" duration="641000" />
+      <workItem from="1670229392945" duration="666000" />
+      <workItem from="1672739772447" duration="81000" />
+      <workItem from="1677556899794" duration="2809000" />
+      <workItem from="1677567166783" duration="5494000" />
+      <workItem from="1677572813729" duration="22874000" />
+      <workItem from="1677649146420" duration="22126000" />
+      <workItem from="1677676855077" duration="25631000" />
+      <workItem from="1677762616744" duration="104000" />
+      <workItem from="1677762731108" duration="2232000" />
+      <workItem from="1677765468673" duration="13090000" />
+      <workItem from="1677832076405" duration="6432000" />
+      <workItem from="1677848952146" duration="1166000" />
+      <workItem from="1677860219672" duration="2494000" />
+      <workItem from="1677919301372" duration="1823000" />
+      <workItem from="1677984890257" duration="8580000" />
+      <workItem from="1678070979194" duration="29269000" />
+      <workItem from="1678197482688" duration="4463000" />
+      <workItem from="1678380289807" duration="87000" />
+      <workItem from="1678472632750" duration="134000" />
+      <workItem from="1678523160854" duration="1094000" />
+      <workItem from="1678644606961" duration="1229000" />
+      <workItem from="1678731969736" duration="2682000" />
+      <workItem from="1678817325394" duration="1263000" />
+      <workItem from="1678863937852" duration="26000" />
+      <workItem from="1678935114215" duration="1472000" />
+      <workItem from="1678991423142" duration="94000" />
+      <workItem from="1679153005532" duration="923000" />
+      <workItem from="1679197307236" duration="1853000" />
+      <workItem from="1679237589895" duration="1432000" />
+      <workItem from="1679251106816" duration="1825000" />
+      <workItem from="1679303641774" duration="1188000" />
+      <workItem from="1679462312998" duration="5489000" />
+      <workItem from="1679541217289" duration="5671000" />
+      <workItem from="1679562704176" duration="976000" />
+      <workItem from="1679563700889" duration="5508000" />
+      <workItem from="1679573187310" duration="7800000" />
+      <workItem from="1679643283499" duration="4161000" />
+      <workItem from="1679739626599" duration="610000" />
+      <workItem from="1679855292751" duration="291000" />
+      <workItem from="1679885993459" duration="3102000" />
+      <workItem from="1679926767833" duration="568000" />
+      <workItem from="1679974959352" duration="5227000" />
+      <workItem from="1679985143018" duration="1913000" />
+      <workItem from="1680071662787" duration="616000" />
+      <workItem from="1680077063351" duration="3901000" />
+      <workItem from="1680173370680" duration="5662000" />
+      <workItem from="1680235081168" duration="14278000" />
+      <workItem from="1680326278152" duration="902000" />
+      <workItem from="1680336648577" duration="7453000" />
+      <workItem from="1680704155972" duration="17000" />
+      <workItem from="1680704311680" duration="836000" />
+      <workItem from="1681216129145" duration="1426000" />
+      <workItem from="1681218929616" duration="815000" />
+      <workItem from="1681227675275" duration="7473000" />
+      <workItem from="1681357298322" duration="3495000" />
+      <workItem from="1681793379976" duration="3355000" />
+      <workItem from="1681812075899" duration="1579000" />
+      <workItem from="1681814217162" duration="3699000" />
+      <workItem from="1681822819424" duration="16654000" />
+      <workItem from="1681891963577" duration="5775000" />
+      <workItem from="1682068366979" duration="25501000" />
+      <workItem from="1682401228660" duration="24406000" />
+      <workItem from="1682592431195" duration="4749000" />
+      <workItem from="1682605020015" duration="8002000" />
+      <workItem from="1683014234206" duration="836000" />
+      <workItem from="1683015314333" duration="69000" />
+      <workItem from="1683015397257" duration="3333000" />
+      <workItem from="1683021185738" duration="90000" />
+      <workItem from="1683021324584" duration="593000" />
+      <workItem from="1683022173185" duration="627000" />
+      <workItem from="1683026058007" duration="700000" />
+      <workItem from="1683027445503" duration="520000" />
+      <workItem from="1683027985711" duration="3636000" />
+      <workItem from="1683039277736" duration="1997000" />
+      <workItem from="1683102648972" duration="593000" />
+      <workItem from="1683112269169" duration="2990000" />
+      <workItem from="1683120573371" duration="594000" />
+      <workItem from="1683177553357" duration="672000" />
+      <workItem from="1683179796196" duration="103000" />
+      <workItem from="1683179914027" duration="121000" />
+      <workItem from="1683180052427" duration="594000" />
+      <workItem from="1683181790125" duration="903000" />
+      <workItem from="1683215435949" duration="5305000" />
+      <workItem from="1683277945309" duration="595000" />
+      <workItem from="1683376788900" duration="20382000" />
+      <workItem from="1683617768501" duration="1211000" />
+      <workItem from="1683619008931" duration="114000" />
+      <workItem from="1683619143874" duration="2101000" />
+      <workItem from="1683686255557" duration="1885000" />
+      <workItem from="1683706171141" duration="27177000" />
+      <workItem from="1683863741852" duration="658000" />
+      <workItem from="1683864422081" duration="3853000" />
+      <workItem from="1683942366220" duration="219000" />
+      <workItem from="1683982904058" duration="102000" />
+      <workItem from="1683983018703" duration="11296000" />
+      <workItem from="1684399176231" duration="69000" />
+      <workItem from="1684399919087" duration="4019000" />
+      <workItem from="1684492573938" duration="1215000" />
+      <workItem from="1684566840687" duration="602000" />
+      <workItem from="1684809293093" duration="1065000" />
+      <workItem from="1684815284782" duration="5561000" />
+      <workItem from="1690874676540" duration="1986000" />
+      <workItem from="1690876709814" duration="1538000" />
+      <workItem from="1690878574229" duration="1765000" />
+      <workItem from="1690899960062" duration="4227000" />
+      <workItem from="1690938102322" duration="666000" />
+      <workItem from="1690938797880" duration="1282000" />
+      <workItem from="1691032552965" duration="183000" />
+      <workItem from="1693750426851" duration="291000" />
+      <workItem from="1696849112813" duration="77000" />
+      <workItem from="1696850179944" duration="229000" />
+      <workItem from="1696850650411" duration="6619000" />
+      <workItem from="1696923916614" duration="208000" />
+      <workItem from="1696924183751" duration="8000" />
+      <workItem from="1697701215786" duration="15400000" />
+      <workItem from="1697774258612" duration="3003000" />
+      <workItem from="1698127505319" duration="34000" />
+      <workItem from="1708531971946" duration="987000" />
+      <workItem from="1716452371535" duration="5242000" />
+      <workItem from="1716470650965" duration="3530000" />
+      <workItem from="1716623471696" duration="8023000" />
+      <workItem from="1716632833526" duration="511000" />
+      <workItem from="1716633538556" duration="4645000" />
+      <workItem from="1716882769964" duration="18000" />
+      <workItem from="1716972775295" duration="2748000" />
+      <workItem from="1716979318071" duration="4584000" />
+      <workItem from="1716983949324" duration="3073000" />
+    </task>
+    <task id="LOCAL-00005" summary="对结构做了一些整理">
+      <created>1622789794964</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622789794964</updated>
+    </task>
+    <task id="LOCAL-00006" summary="对load_data 语义的优化">
+      <created>1622789820646</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622789820646</updated>
+    </task>
+    <task id="LOCAL-00007" summary="对load_data 语义的优化">
+      <created>1622790400384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622790400384</updated>
+    </task>
+    <task id="LOCAL-00008" summary="对load_data 语义的优化">
+      <created>1622811929458</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622811929458</updated>
+    </task>
+    <task id="LOCAL-00009" summary="对load_data 语义的优化">
+      <created>1622816472620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622816472620</updated>
+    </task>
+    <task id="LOCAL-00010" summary="任务 2 3的xgboost">
+      <created>1622948392315</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622948392316</updated>
+    </task>
+    <task id="LOCAL-00011" summary="任务 2 3的xgboos和linear svm">
+      <created>1622948547592</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622948547592</updated>
+    </task>
+    <task id="LOCAL-00012" summary="任务2的筛选 xgboost">
+      <created>1622976461975</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622976461975</updated>
+    </task>
+    <task id="LOCAL-00013" summary="任务2的筛选 xgboost">
+      <created>1622976495654</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622976495654</updated>
+    </task>
+    <task id="LOCAL-00014" summary="任务2的筛选 xgboost">
+      <created>1622976514004</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622976514004</updated>
+    </task>
+    <task id="LOCAL-00015" summary="任务1的结果">
+      <created>1622989102829</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622989102829</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1622989426630</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1622989426630</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1623057188863</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1623057188863</updated>
+    </task>
+    <task id="LOCAL-00018" summary="对merged去重">
+      <created>1623057360431</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1623057360431</updated>
+    </task>
+    <task id="LOCAL-00019" summary="暂时考虑用这个模板">
+      <created>1623144883052</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1623144883052</updated>
+    </task>
+    <task id="LOCAL-00020" summary="回归的模型，但是新任务重构之后有些地方还没改过来">
+      <created>1623166347024</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1623166347024</updated>
+    </task>
+    <task id="LOCAL-00021" summary="上传了pytorch nn的训练，不过过拟合现象严重，就不总结特征了">
+      <created>1623402160363</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1623402160363</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1、 对任务1加载数据进行优化，结构更加统一&#10;2、 添加各种模型尝试的整体函数 主要有lasso ridge svr 随机森林 用于完成任务1&#10;3、 添加任务1在这4个模型上的准确率">
+      <created>1623749154005</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1623749154005</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1、 对任务1加载数据进行优化，结构更加统一&#10;2、 添加各种模型尝试的整体函数 主要有lasso ridge svr 随机森林 用于完成任务1&#10;3、 添加神经网络对任务1的预测的结果 &#10;3、 添加任务1在这4个模型上的准确率">
+      <created>1623770784037</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1623770784037</updated>
+    </task>
+    <task id="LOCAL-00024" summary="1、 对任务1加载数据进行优化，结构更加统一&#10;2、 添加各种模型尝试的整体函数 主要有lasso ridge svr 随机森林 用于完成任务1&#10;3、 添加神经网络对任务1的预测的结果&#10;3、 添加任务1在这4个模型上的准确率&#10;&#10;Signed-off-by: yourName &lt;1056377463@qq.com&gt;">
+      <created>1623770981759</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1623770981759</updated>
+    </task>
+    <task id="LOCAL-00025" summary="测试下其他网络结构">
+      <created>1623806091953</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1623806091953</updated>
+    </task>
+    <task id="LOCAL-00026" summary="测试下其他网络结构,但是在训练集上的拟合程度都不高，应该是模型假设出错">
+      <created>1623809660198</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1623809660198</updated>
+    </task>
+    <task id="LOCAL-00027" summary="剩下的任务性能数据">
+      <created>1623834509989</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1623834509989</updated>
+    </task>
+    <task id="LOCAL-00028" summary="剩下的任务性能数据">
+      <created>1623835134173</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1623835134173</updated>
+    </task>
+    <task id="LOCAL-00029" summary="剩下的任务性能数据">
+      <created>1623838046662</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1623838046662</updated>
+    </task>
+    <task id="LOCAL-00030" summary="剩下的任务性能数据">
+      <created>1624180818383</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1624180818383</updated>
+    </task>
+    <task id="LOCAL-00031" summary="整合后的结果&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;">
+      <created>1624180841877</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1624180841877</updated>
+    </task>
+    <task id="LOCAL-00032" summary="整合后的结果&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;">
+      <created>1624180846944</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1624180846944</updated>
+    </task>
+    <task id="LOCAL-00033" summary="整合后的结果&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;">
+      <created>1624180989571</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1624180989571</updated>
+    </task>
+    <task id="LOCAL-00034" summary="整合后的结果&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;">
+      <created>1624181150979</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1624181150979</updated>
+    </task>
+    <task id="LOCAL-00035" summary="任务描述写错了，是扩展之后的任务名&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;">
+      <created>1624264975751</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1624264975751</updated>
+    </task>
+    <task id="LOCAL-00036" summary="修正了测试集上由于 y_true y_predict 导致的计算错误的问题&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;">
+      <created>1624624022370</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1624624022370</updated>
+    </task>
+    <task id="LOCAL-00037" summary="任务2的多分类roc_auc 接口在data_plot里">
+      <created>1627043870996</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1627043870996</updated>
+    </task>
+    <task id="LOCAL-00038" summary="任务2的多分类roc_auc 接口在data_plot里">
+      <created>1627043981976</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1627043981976</updated>
+    </task>
+    <task id="LOCAL-00039" summary="task6">
+      <created>1628926229243</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1628926229243</updated>
+    </task>
+    <task id="LOCAL-00040" summary="task6">
+      <created>1629007251731</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1629007251731</updated>
+    </task>
+    <task id="LOCAL-00041" summary="task7">
+      <created>1629022049282</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1629022049282</updated>
+    </task>
+    <task id="LOCAL-00042" summary="task7">
+      <created>1629022122504</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1629022122504</updated>
+    </task>
+    <task id="LOCAL-00043" summary="task8">
+      <created>1629041722199</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1629041722199</updated>
+    </task>
+    <task id="LOCAL-00044" summary="task8">
+      <created>1634267442633</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1634267442633</updated>
+    </task>
+    <task id="LOCAL-00045" summary="论文相关">
+      <created>1634896827184</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1634896827184</updated>
+    </task>
+    <task id="LOCAL-00046" summary="论文相关">
+      <created>1655388347929</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1655388347929</updated>
+    </task>
+    <task id="LOCAL-00047" summary="排序了xgboost重要度 shap变成垂直排列 添加task10 和一个结论整理">
+      <created>1657446292514</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1657446292514</updated>
+    </task>
+    <task id="LOCAL-00048" summary="排序了xgboost重要度 shap变成垂直排列 添加task10 和一个结论整理">
+      <created>1657446349952</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1657446349952</updated>
+    </task>
+    <task id="LOCAL-00049" summary="纠正 s和p的取值 做出新假设（平均值和中位数代表正常值） task10对比正常值">
+      <created>1657513441377</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1657513441377</updated>
+    </task>
+    <task id="LOCAL-00050" summary="shape保存结果 4*5个shap封装好直接一个函数执行">
+      <created>1662028330621</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1662028330621</updated>
+    </task>
+    <task id="LOCAL-00051" summary="shape保存结果 4*5个shap封装好直接一个函数执行">
+      <created>1662028399686</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1662028399686</updated>
+    </task>
+    <task id="LOCAL-00052" summary="使用自动机器学习刷比之前高很多的性能，详见readme">
+      <created>1679985517139</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1679985517140</updated>
+    </task>
+    <task id="LOCAL-00053" summary="使用自动机器学习刷比之前高很多的性能，详见readme">
+      <created>1679985650246</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1679985650246</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="0fa3204a-1a3c-4168-aae1-fa3341b8d34d">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="任务2的筛选 xgboost" />
+    <MESSAGE value="任务1的结果" />
+    <MESSAGE value="update" />
+    <MESSAGE value="对merged去重" />
+    <MESSAGE value="暂时考虑用这个模板" />
+    <MESSAGE value="回归的模型，但是新任务重构之后有些地方还没改过来" />
+    <MESSAGE value="上传了pytorch nn的训练，不过过拟合现象严重，就不总结特征了" />
+    <MESSAGE value="1、 对任务1加载数据进行优化，结构更加统一&#10;2、 添加各种模型尝试的整体函数 主要有lasso ridge svr 随机森林 用于完成任务1&#10;3、 添加任务1在这4个模型上的准确率" />
+    <MESSAGE value="1、 对任务1加载数据进行优化，结构更加统一&#10;2、 添加各种模型尝试的整体函数 主要有lasso ridge svr 随机森林 用于完成任务1&#10;3、 添加神经网络对任务1的预测的结果 &#10;3、 添加任务1在这4个模型上的准确率" />
+    <MESSAGE value="1、 对任务1加载数据进行优化，结构更加统一&#10;2、 添加各种模型尝试的整体函数 主要有lasso ridge svr 随机森林 用于完成任务1&#10;3、 添加神经网络对任务1的预测的结果&#10;3、 添加任务1在这4个模型上的准确率&#10;&#10;Signed-off-by: yourName &lt;1056377463@qq.com&gt;" />
+    <MESSAGE value="测试下其他网络结构" />
+    <MESSAGE value="测试下其他网络结构,但是在训练集上的拟合程度都不高，应该是模型假设出错" />
+    <MESSAGE value="剩下的任务性能数据" />
+    <MESSAGE value="整合后的结果&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;" />
+    <MESSAGE value="任务描述写错了，是扩展之后的任务名&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;" />
+    <MESSAGE value="修正了测试集上由于 y_true y_predict 导致的计算错误的问题&#10;Signed-off-by: luqiuyi &lt;1056377463@qq.com&gt;" />
+    <MESSAGE value="任务2的多分类roc_auc 接口在data_plot里" />
+    <MESSAGE value="task6" />
+    <MESSAGE value="task7" />
+    <MESSAGE value="task8" />
+    <MESSAGE value="论文相关" />
+    <MESSAGE value="排序了xgboost重要度 shap变成垂直排列 添加task10 和一个结论整理" />
+    <MESSAGE value="纠正 s和p的取值 做出新假设（平均值和中位数代表正常值） task10对比正常值" />
+    <MESSAGE value="shape保存结果 4*5个shap封装好直接一个函数执行" />
+    <MESSAGE value="使用自动机器学习刷比之前高很多的性能，详见readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用自动机器学习刷比之前高很多的性能，详见readme" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models_for_reg.py</url>
+          <line>603</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models_for_reg.py</url>
+          <line>661</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_data.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/other/m4a2wav.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auto_ML_for_reg.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log/autogluon_res/draw_info_each_stage.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_count.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_plot/p.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_plot/p.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nnModel_for_clf.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nnModel_for_reg.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/try_on_models.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="x.values" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/medical_data_analysis$new_count.coverage" NAME="new_count 覆盖结果" MODIFIED="1696856102151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$nnModel_for_clf.coverage" NAME="nnModel_for_clf 覆盖结果" MODIFIED="1716625782646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$train_for_clf.coverage" NAME="train_for_clf Coverage Results" MODIFIED="1627043585775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$p.coverage" NAME="p 覆盖结果" MODIFIED="1697705974405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_plot" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$nnModel_for_reg.coverage" NAME="nnModel_for_reg 覆盖结果" MODIFIED="1716628743714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$do_Ttest.coverage" NAME="do_Ttest Coverage Results" MODIFIED="1657530022773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$train_for_reg.coverage" NAME="train_for_reg Coverage Results" MODIFIED="1677728126340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$try_on_models.coverage" NAME="try_on_models 覆盖结果" MODIFIED="1716980768093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$test.coverage" NAME="test Coverage Results" MODIFIED="1677760978682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$m4a2wav.coverage" NAME="m4a2wav Coverage Results" MODIFIED="1679575011037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/other" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$Auto_ML_for_reg__1_.coverage" NAME="Auto_ML_for_reg (1) 覆盖结果" MODIFIED="1683784076427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$models_for_reg.coverage" NAME="models_for_reg 覆盖结果" MODIFIED="1716638335801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$mv2best_quality.coverage" NAME="mv2best_quality 覆盖结果" MODIFIED="1683020907586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$do_Ttest__1_.coverage" NAME="do_Ttest (1) Coverage Results" MODIFIED="1628925298219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$draw_info_each_stage.coverage" NAME="draw_info_each_stage 覆盖结果" MODIFIED="1684124092501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log/autogluon_res" />
+    <SUITE FILE_PATH="coverage/medical_data_analysis$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1646302515736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
